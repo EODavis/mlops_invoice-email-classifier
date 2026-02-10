@@ -1,0 +1,22 @@
+Invoice Email Classifier Evaluation
+===================================
+
+                         precision    recall  f1-score   support
+
+   bank_details_request       1.00      1.00      1.00       104
+general_finance_inquiry       1.00      1.00      1.00        99
+        invoice_request       1.00      1.00      1.00        80
+      payment_confirmed       1.00      1.00      1.00        72
+        payment_overdue       1.00      1.00      1.00        70
+
+               accuracy                           1.00       425
+              macro avg       1.00      1.00      1.00       425
+           weighted avg       1.00      1.00      1.00       425
+
+
+Confusion Matrix
+[[104   0   0   0   0]
+ [  0  99   0   0   0]
+ [  0   0  80   0   0]
+ [  0   0   0  72   0]
+ [  0   0   0   0  70]]

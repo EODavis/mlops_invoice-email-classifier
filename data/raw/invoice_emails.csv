@@ -1,0 +1,1701 @@
+text,label
+kindly confirm your bank details for settlement kindly respond,bank_details_request
+please send the invoice for last month urgent,invoice_request
+"your account is overdue, settle the invoice urgently please treat as priority",payment_overdue
+please provide your iban or bank information,bank_details_request
+can you provide the invoice for this transaction? please treat as priority,invoice_request
+"your payment is overdue, please settle immediately please assist",payment_overdue
+"i did not receive the invoice, please share it urgent",invoice_request
+please send the invoice for last month please assist waiting for your feedback,invoice_request
+please clarify the charges on the invoice please treat as priority this is important,general_finance_inquiry
+can you provide the invoice for this transaction? this is important waiting for your feedback,invoice_request
+we have a question regarding your pricing and billing thanks,general_finance_inquiry
+"the invoice has been settled, see payment slip attached asap please treat as priority",payment_confirmed
+we have a question regarding your pricing and billing waiting for your feedback,general_finance_inquiry
+can you share your finance department contact?,general_finance_inquiry
+we have a question regarding your pricing and billing thanks,general_finance_inquiry
+"the invoice has been settled, see payment slip attached",payment_confirmed
+we have completed payment for invoice number 2040 thanks,payment_confirmed
+kindly send your account number and bank name urgent,bank_details_request
+kindly confirm you received the payment,payment_confirmed
+kindly resend the invoice document please assist,invoice_request
+"we have paid the invoice, kindly confirm receipt please assist",payment_confirmed
+please send the invoice for last month kindly respond,invoice_request
+can you confirm the total outstanding balance?,general_finance_inquiry
+what is the due date for this invoice? please assist,general_finance_inquiry
+kindly send your account number and bank name,bank_details_request
+please provide your iban or bank information please assist,bank_details_request
+kindly explain the breakdown of charges kindly respond,general_finance_inquiry
+kindly resend the invoice document please treat as priority this is important,invoice_request
+"your account is overdue, settle the invoice urgently please assist please treat as priority",payment_overdue
+this is a reminder that your invoice is past due this is important,payment_overdue
+"i did not receive the invoice, please share it kindly respond urgent",invoice_request
+invoice remains unpaid despite previous reminders thanks,payment_overdue
+"i did not receive the invoice, please share it asap",invoice_request
+where should we transfer the payment? send bank details,bank_details_request
+where should we transfer the payment? send bank details,bank_details_request
+we have a question regarding your pricing and billing please treat as priority,general_finance_inquiry
+can you share your finance department contact?,general_finance_inquiry
+this is a reminder that your invoice is past due please assist kindly respond,payment_overdue
+"we have paid the invoice, kindly confirm receipt thanks thanks",payment_confirmed
+kindly confirm you received the payment waiting for your feedback urgent,payment_confirmed
+this is a reminder that your invoice is past due thanks waiting for your feedback,payment_overdue
+where should we transfer the payment? send bank details please assist urgent,bank_details_request
+"we have paid the invoice, kindly confirm receipt urgent urgent",payment_confirmed
+please note your outstanding balance is overdue asap,payment_overdue
+we have a question regarding your pricing and billing urgent,general_finance_inquiry
+"i did not receive the invoice, please share it thanks asap",invoice_request
+kindly confirm your bank details for settlement waiting for your feedback,bank_details_request
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+"we have not received payment, kindly pay as soon as possible waiting for your feedback",payment_overdue
+attached is proof of payment for the invoice thanks,payment_confirmed
+please generate and send an invoice for my payment,invoice_request
+i need the invoice copy for accounting purposes,invoice_request
+"we have paid the invoice, kindly confirm receipt kindly respond asap",payment_confirmed
+we have completed payment for invoice number 2040 please treat as priority,payment_confirmed
+"the invoice has been settled, see payment slip attached",payment_confirmed
+i need the invoice copy for accounting purposes,invoice_request
+kindly explain the breakdown of charges,general_finance_inquiry
+this is a reminder that your invoice is past due waiting for your feedback,payment_overdue
+please provide your iban or bank information please treat as priority,bank_details_request
+please share your bank account details waiting for your feedback,bank_details_request
+please generate and send an invoice for my payment,invoice_request
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+where should we transfer the payment? send bank details please treat as priority,bank_details_request
+this is a reminder that your invoice is past due please assist kindly respond,payment_overdue
+this is a reminder that your invoice is past due please assist please treat as priority,payment_overdue
+"the invoice has been settled, see payment slip attached please treat as priority please treat as priority",payment_confirmed
+"your account is overdue, settle the invoice urgently asap",payment_overdue
+where should we transfer the payment? send bank details urgent,bank_details_request
+"we have not received payment, kindly pay as soon as possible this is important",payment_overdue
+invoice remains unpaid despite previous reminders waiting for your feedback,payment_overdue
+"your account is overdue, settle the invoice urgently",payment_overdue
+send your payment account details for transfer urgent,bank_details_request
+kindly resend the invoice document please treat as priority,invoice_request
+kindly resend the invoice document,invoice_request
+send your payment account details for transfer,bank_details_request
+kindly explain the breakdown of charges urgent,general_finance_inquiry
+what is the due date for this invoice? kindly respond waiting for your feedback,general_finance_inquiry
+"i did not receive the invoice, please share it thanks kindly respond",invoice_request
+can you provide the invoice for this transaction?,invoice_request
+"payment has been made successfully, please acknowledge",payment_confirmed
+kindly confirm you received the payment thanks,payment_confirmed
+kindly confirm you received the payment please treat as priority,payment_confirmed
+please clarify the charges on the invoice urgent waiting for your feedback,general_finance_inquiry
+what is the due date for this invoice? please treat as priority please assist,general_finance_inquiry
+this is a reminder that your invoice is past due thanks,payment_overdue
+kindly confirm your bank details for settlement,bank_details_request
+what is the due date for this invoice? urgent urgent,general_finance_inquiry
+please clarify the charges on the invoice waiting for your feedback,general_finance_inquiry
+attached is proof of payment for the invoice asap,payment_confirmed
+kindly explain the breakdown of charges,general_finance_inquiry
+kindly resend the invoice document thanks,invoice_request
+"i did not receive the invoice, please share it",invoice_request
+"your account is overdue, settle the invoice urgently waiting for your feedback please assist",payment_overdue
+"i did not receive the invoice, please share it please treat as priority this is important",invoice_request
+"your account is overdue, settle the invoice urgently please treat as priority",payment_overdue
+invoice remains unpaid despite previous reminders this is important,payment_overdue
+"your payment is overdue, please settle immediately",payment_overdue
+"we have paid the invoice, kindly confirm receipt asap",payment_confirmed
+"we have not received payment, kindly pay as soon as possible please assist",payment_overdue
+"payment has been made successfully, please acknowledge waiting for your feedback",payment_confirmed
+please clarify the charges on the invoice kindly respond urgent,general_finance_inquiry
+"we have paid the invoice, kindly confirm receipt please treat as priority",payment_confirmed
+please provide your iban or bank information asap,bank_details_request
+"we have not received payment, kindly pay as soon as possible",payment_overdue
+can you confirm the total outstanding balance? this is important,general_finance_inquiry
+invoice remains unpaid despite previous reminders waiting for your feedback asap,payment_overdue
+can you provide the invoice for this transaction? please assist asap,invoice_request
+kindly send your account number and bank name please assist,bank_details_request
+kindly send your account number and bank name this is important thanks,bank_details_request
+can you confirm the total outstanding balance? please treat as priority,general_finance_inquiry
+"the invoice has been settled, see payment slip attached asap",payment_confirmed
+we have a question regarding your pricing and billing urgent,general_finance_inquiry
+kindly confirm your bank details for settlement please treat as priority,bank_details_request
+i need the invoice copy for accounting purposes waiting for your feedback,invoice_request
+please generate and send an invoice for my payment please treat as priority waiting for your feedback,invoice_request
+we have a question regarding your pricing and billing kindly respond,general_finance_inquiry
+please generate and send an invoice for my payment urgent this is important,invoice_request
+"your payment is overdue, please settle immediately this is important",payment_overdue
+"we have paid the invoice, kindly confirm receipt please treat as priority",payment_confirmed
+send your payment account details for transfer thanks urgent,bank_details_request
+we have a question regarding your pricing and billing this is important this is important,general_finance_inquiry
+can you confirm the total outstanding balance? kindly respond urgent,general_finance_inquiry
+kindly confirm you received the payment kindly respond,payment_confirmed
+this is a reminder that your invoice is past due waiting for your feedback this is important,payment_overdue
+we have completed payment for invoice number 2040 please treat as priority,payment_confirmed
+please generate and send an invoice for my payment,invoice_request
+this is a reminder that your invoice is past due please treat as priority waiting for your feedback,payment_overdue
+we have completed payment for invoice number 2040 kindly respond,payment_confirmed
+"your account is overdue, settle the invoice urgently kindly respond",payment_overdue
+"payment has been made successfully, please acknowledge kindly respond",payment_confirmed
+kindly resend the invoice document thanks,invoice_request
+can you confirm the total outstanding balance? please assist,general_finance_inquiry
+kindly confirm you received the payment asap thanks,payment_confirmed
+kindly explain the breakdown of charges urgent,general_finance_inquiry
+"i did not receive the invoice, please share it asap urgent",invoice_request
+please generate and send an invoice for my payment,invoice_request
+where should we transfer the payment? send bank details kindly respond this is important,bank_details_request
+"your account is overdue, settle the invoice urgently",payment_overdue
+"i did not receive the invoice, please share it urgent",invoice_request
+"the invoice has been settled, see payment slip attached thanks",payment_confirmed
+kindly resend the invoice document waiting for your feedback,invoice_request
+send your payment account details for transfer this is important,bank_details_request
+please send the invoice for last month,invoice_request
+kindly explain the breakdown of charges thanks this is important,general_finance_inquiry
+kindly resend the invoice document this is important waiting for your feedback,invoice_request
+please send the invoice for last month thanks please treat as priority,invoice_request
+attached is proof of payment for the invoice thanks,payment_confirmed
+attached is proof of payment for the invoice asap,payment_confirmed
+please send the invoice for last month,invoice_request
+kindly explain the breakdown of charges please treat as priority,general_finance_inquiry
+"the invoice has been settled, see payment slip attached",payment_confirmed
+this is a reminder that your invoice is past due please treat as priority waiting for your feedback,payment_overdue
+i need the invoice copy for accounting purposes please treat as priority this is important,invoice_request
+i need the invoice copy for accounting purposes thanks,invoice_request
+"we have not received payment, kindly pay as soon as possible please assist asap",payment_overdue
+please provide your iban or bank information,bank_details_request
+can you confirm the total outstanding balance?,general_finance_inquiry
+"i did not receive the invoice, please share it please treat as priority",invoice_request
+this is a reminder that your invoice is past due urgent,payment_overdue
+please note your outstanding balance is overdue waiting for your feedback,payment_overdue
+send your payment account details for transfer waiting for your feedback,bank_details_request
+please note your outstanding balance is overdue this is important,payment_overdue
+"the invoice has been settled, see payment slip attached kindly respond",payment_confirmed
+"the invoice has been settled, see payment slip attached urgent",payment_confirmed
+what is the due date for this invoice? thanks,general_finance_inquiry
+please send the invoice for last month please assist,invoice_request
+please clarify the charges on the invoice this is important urgent,general_finance_inquiry
+"your payment is overdue, please settle immediately please treat as priority",payment_overdue
+can you provide the invoice for this transaction? please treat as priority urgent,invoice_request
+"i did not receive the invoice, please share it thanks",invoice_request
+kindly explain the breakdown of charges,general_finance_inquiry
+please generate and send an invoice for my payment please assist,invoice_request
+where should we transfer the payment? send bank details,bank_details_request
+i need the invoice copy for accounting purposes urgent,invoice_request
+kindly explain the breakdown of charges this is important asap,general_finance_inquiry
+where should we transfer the payment? send bank details,bank_details_request
+what is the due date for this invoice? please assist this is important,general_finance_inquiry
+please provide your iban or bank information waiting for your feedback,bank_details_request
+can you confirm the total outstanding balance? this is important asap,general_finance_inquiry
+"we have paid the invoice, kindly confirm receipt please treat as priority",payment_confirmed
+"payment has been made successfully, please acknowledge asap",payment_confirmed
+kindly confirm your bank details for settlement,bank_details_request
+please clarify the charges on the invoice please assist,general_finance_inquiry
+can you share your finance department contact? urgent,general_finance_inquiry
+"your account is overdue, settle the invoice urgently kindly respond",payment_overdue
+"your payment is overdue, please settle immediately waiting for your feedback",payment_overdue
+send your payment account details for transfer urgent,bank_details_request
+attached is proof of payment for the invoice,payment_confirmed
+"we have not received payment, kindly pay as soon as possible urgent",payment_overdue
+what is the due date for this invoice?,general_finance_inquiry
+kindly send your account number and bank name waiting for your feedback,bank_details_request
+please clarify the charges on the invoice urgent,general_finance_inquiry
+i need the invoice copy for accounting purposes,invoice_request
+this is a reminder that your invoice is past due thanks,payment_overdue
+please send the invoice for last month kindly respond,invoice_request
+we have completed payment for invoice number 2040,payment_confirmed
+kindly confirm your bank details for settlement waiting for your feedback,bank_details_request
+"your account is overdue, settle the invoice urgently",payment_overdue
+where should we transfer the payment? send bank details waiting for your feedback,bank_details_request
+we have a question regarding your pricing and billing,general_finance_inquiry
+can you confirm the total outstanding balance? urgent,general_finance_inquiry
+please generate and send an invoice for my payment,invoice_request
+"your payment is overdue, please settle immediately thanks please assist",payment_overdue
+can you share your finance department contact? this is important,general_finance_inquiry
+please provide your iban or bank information,bank_details_request
+please generate and send an invoice for my payment,invoice_request
+please generate and send an invoice for my payment asap urgent,invoice_request
+please clarify the charges on the invoice thanks,general_finance_inquiry
+i need the invoice copy for accounting purposes asap,invoice_request
+kindly confirm your bank details for settlement asap,bank_details_request
+"payment has been made successfully, please acknowledge this is important",payment_confirmed
+we have a question regarding your pricing and billing kindly respond,general_finance_inquiry
+please note your outstanding balance is overdue please treat as priority,payment_overdue
+where should we transfer the payment? send bank details asap,bank_details_request
+"your account is overdue, settle the invoice urgently kindly respond asap",payment_overdue
+where should we transfer the payment? send bank details urgent,bank_details_request
+please clarify the charges on the invoice waiting for your feedback,general_finance_inquiry
+"the invoice has been settled, see payment slip attached",payment_confirmed
+send your payment account details for transfer waiting for your feedback,bank_details_request
+can you share your finance department contact? asap,general_finance_inquiry
+please provide your iban or bank information thanks,bank_details_request
+can you provide the invoice for this transaction? asap,invoice_request
+please note your outstanding balance is overdue this is important,payment_overdue
+"your payment is overdue, please settle immediately this is important urgent",payment_overdue
+can you confirm the total outstanding balance? please treat as priority,general_finance_inquiry
+i need the invoice copy for accounting purposes please assist,invoice_request
+what is the due date for this invoice? please treat as priority kindly respond,general_finance_inquiry
+please share your bank account details,bank_details_request
+this is a reminder that your invoice is past due,payment_overdue
+kindly confirm your bank details for settlement please treat as priority,bank_details_request
+attached is proof of payment for the invoice please treat as priority thanks,payment_confirmed
+invoice remains unpaid despite previous reminders,payment_overdue
+"your account is overdue, settle the invoice urgently this is important",payment_overdue
+send your payment account details for transfer,bank_details_request
+can you provide the invoice for this transaction? please treat as priority thanks,invoice_request
+attached is proof of payment for the invoice kindly respond,payment_confirmed
+kindly send your account number and bank name,bank_details_request
+please clarify the charges on the invoice asap,general_finance_inquiry
+invoice remains unpaid despite previous reminders asap,payment_overdue
+please send the invoice for last month thanks,invoice_request
+kindly confirm you received the payment asap,payment_confirmed
+please provide your iban or bank information,bank_details_request
+what is the due date for this invoice?,general_finance_inquiry
+where should we transfer the payment? send bank details kindly respond asap,bank_details_request
+invoice remains unpaid despite previous reminders please treat as priority,payment_overdue
+invoice remains unpaid despite previous reminders please treat as priority,payment_overdue
+i need the invoice copy for accounting purposes please treat as priority this is important,invoice_request
+can you provide the invoice for this transaction? this is important,invoice_request
+"your payment is overdue, please settle immediately please assist",payment_overdue
+can you provide the invoice for this transaction? waiting for your feedback,invoice_request
+kindly resend the invoice document,invoice_request
+we have a question regarding your pricing and billing please assist,general_finance_inquiry
+"we have not received payment, kindly pay as soon as possible asap waiting for your feedback",payment_overdue
+please provide your iban or bank information waiting for your feedback,bank_details_request
+"the invoice has been settled, see payment slip attached urgent asap",payment_confirmed
+this is a reminder that your invoice is past due asap,payment_overdue
+please provide your iban or bank information urgent,bank_details_request
+attached is proof of payment for the invoice waiting for your feedback please treat as priority,payment_confirmed
+can you share your finance department contact? urgent,general_finance_inquiry
+attached is proof of payment for the invoice,payment_confirmed
+send your payment account details for transfer please treat as priority please assist,bank_details_request
+kindly confirm your bank details for settlement kindly respond,bank_details_request
+send your payment account details for transfer,bank_details_request
+please note your outstanding balance is overdue urgent,payment_overdue
+i need the invoice copy for accounting purposes,invoice_request
+"i did not receive the invoice, please share it kindly respond urgent",invoice_request
+we have a question regarding your pricing and billing waiting for your feedback,general_finance_inquiry
+invoice remains unpaid despite previous reminders please treat as priority,payment_overdue
+"we have not received payment, kindly pay as soon as possible thanks",payment_overdue
+"your account is overdue, settle the invoice urgently thanks",payment_overdue
+please share your bank account details this is important,bank_details_request
+kindly resend the invoice document thanks,invoice_request
+we have a question regarding your pricing and billing kindly respond,general_finance_inquiry
+we have a question regarding your pricing and billing please assist,general_finance_inquiry
+where should we transfer the payment? send bank details waiting for your feedback,bank_details_request
+send your payment account details for transfer waiting for your feedback,bank_details_request
+can you confirm the total outstanding balance? this is important thanks,general_finance_inquiry
+i need the invoice copy for accounting purposes,invoice_request
+kindly resend the invoice document please treat as priority,invoice_request
+please share your bank account details thanks,bank_details_request
+"your account is overdue, settle the invoice urgently asap",payment_overdue
+please share your bank account details kindly respond please assist,bank_details_request
+please generate and send an invoice for my payment asap urgent,invoice_request
+please share your bank account details kindly respond,bank_details_request
+we have completed payment for invoice number 2040 please treat as priority,payment_confirmed
+please provide your iban or bank information waiting for your feedback kindly respond,bank_details_request
+can you provide the invoice for this transaction?,invoice_request
+attached is proof of payment for the invoice,payment_confirmed
+"payment has been made successfully, please acknowledge asap",payment_confirmed
+"we have not received payment, kindly pay as soon as possible please assist",payment_overdue
+attached is proof of payment for the invoice asap thanks,payment_confirmed
+can you provide the invoice for this transaction? urgent,invoice_request
+"payment has been made successfully, please acknowledge",payment_confirmed
+kindly explain the breakdown of charges,general_finance_inquiry
+"your payment is overdue, please settle immediately waiting for your feedback please treat as priority",payment_overdue
+please share your bank account details urgent,bank_details_request
+kindly confirm your bank details for settlement waiting for your feedback,bank_details_request
+please generate and send an invoice for my payment kindly respond thanks,invoice_request
+"payment has been made successfully, please acknowledge kindly respond",payment_confirmed
+what is the due date for this invoice? please assist,general_finance_inquiry
+we have a question regarding your pricing and billing please treat as priority,general_finance_inquiry
+please share your bank account details urgent,bank_details_request
+where should we transfer the payment? send bank details please treat as priority,bank_details_request
+please note your outstanding balance is overdue please treat as priority,payment_overdue
+attached is proof of payment for the invoice asap,payment_confirmed
+kindly resend the invoice document kindly respond,invoice_request
+"the invoice has been settled, see payment slip attached this is important",payment_confirmed
+"your account is overdue, settle the invoice urgently this is important urgent",payment_overdue
+can you confirm the total outstanding balance?,general_finance_inquiry
+we have completed payment for invoice number 2040 asap,payment_confirmed
+can you share your finance department contact? please treat as priority,general_finance_inquiry
+"i did not receive the invoice, please share it kindly respond please assist",invoice_request
+what is the due date for this invoice?,general_finance_inquiry
+what is the due date for this invoice? this is important,general_finance_inquiry
+what is the due date for this invoice? asap waiting for your feedback,general_finance_inquiry
+"your payment is overdue, please settle immediately",payment_overdue
+can you confirm the total outstanding balance? urgent,general_finance_inquiry
+"your account is overdue, settle the invoice urgently",payment_overdue
+we have a question regarding your pricing and billing this is important,general_finance_inquiry
+can you confirm the total outstanding balance? please treat as priority,general_finance_inquiry
+"your account is overdue, settle the invoice urgently please treat as priority",payment_overdue
+we have a question regarding your pricing and billing,general_finance_inquiry
+"i did not receive the invoice, please share it",invoice_request
+can you share your finance department contact? urgent,general_finance_inquiry
+"payment has been made successfully, please acknowledge please assist",payment_confirmed
+can you confirm the total outstanding balance? asap,general_finance_inquiry
+kindly confirm your bank details for settlement urgent asap,bank_details_request
+where should we transfer the payment? send bank details asap,bank_details_request
+please share your bank account details,bank_details_request
+send your payment account details for transfer please assist kindly respond,bank_details_request
+can you share your finance department contact? kindly respond,general_finance_inquiry
+kindly send your account number and bank name please treat as priority,bank_details_request
+please generate and send an invoice for my payment,invoice_request
+"we have paid the invoice, kindly confirm receipt waiting for your feedback",payment_confirmed
+we have completed payment for invoice number 2040 thanks this is important,payment_confirmed
+can you provide the invoice for this transaction? please treat as priority,invoice_request
+"payment has been made successfully, please acknowledge please assist",payment_confirmed
+kindly confirm you received the payment waiting for your feedback,payment_confirmed
+send your payment account details for transfer urgent,bank_details_request
+kindly confirm you received the payment please assist,payment_confirmed
+kindly explain the breakdown of charges waiting for your feedback,general_finance_inquiry
+can you confirm the total outstanding balance? please treat as priority,general_finance_inquiry
+"payment has been made successfully, please acknowledge",payment_confirmed
+"we have not received payment, kindly pay as soon as possible",payment_overdue
+kindly resend the invoice document waiting for your feedback thanks,invoice_request
+kindly explain the breakdown of charges kindly respond this is important,general_finance_inquiry
+can you confirm the total outstanding balance? urgent,general_finance_inquiry
+please note your outstanding balance is overdue asap,payment_overdue
+please send the invoice for last month please assist please treat as priority,invoice_request
+invoice remains unpaid despite previous reminders,payment_overdue
+please send the invoice for last month please assist,invoice_request
+kindly confirm your bank details for settlement urgent this is important,bank_details_request
+we have completed payment for invoice number 2040,payment_confirmed
+can you share your finance department contact? please assist,general_finance_inquiry
+send your payment account details for transfer thanks,bank_details_request
+please clarify the charges on the invoice kindly respond,general_finance_inquiry
+can you confirm the total outstanding balance?,general_finance_inquiry
+attached is proof of payment for the invoice,payment_confirmed
+we have a question regarding your pricing and billing asap,general_finance_inquiry
+please share your bank account details thanks,bank_details_request
+can you share your finance department contact?,general_finance_inquiry
+send your payment account details for transfer,bank_details_request
+we have completed payment for invoice number 2040 waiting for your feedback,payment_confirmed
+we have completed payment for invoice number 2040 this is important please treat as priority,payment_confirmed
+"payment has been made successfully, please acknowledge waiting for your feedback",payment_confirmed
+kindly resend the invoice document,invoice_request
+"the invoice has been settled, see payment slip attached",payment_confirmed
+attached is proof of payment for the invoice waiting for your feedback,payment_confirmed
+"your payment is overdue, please settle immediately kindly respond",payment_overdue
+please send the invoice for last month waiting for your feedback,invoice_request
+kindly resend the invoice document,invoice_request
+kindly explain the breakdown of charges please treat as priority,general_finance_inquiry
+kindly resend the invoice document please assist,invoice_request
+kindly explain the breakdown of charges,general_finance_inquiry
+please send the invoice for last month waiting for your feedback,invoice_request
+kindly send your account number and bank name asap,bank_details_request
+can you share your finance department contact?,general_finance_inquiry
+kindly confirm your bank details for settlement urgent,bank_details_request
+can you provide the invoice for this transaction? please assist,invoice_request
+please note your outstanding balance is overdue please treat as priority thanks,payment_overdue
+"i did not receive the invoice, please share it thanks",invoice_request
+"we have paid the invoice, kindly confirm receipt kindly respond",payment_confirmed
+kindly resend the invoice document,invoice_request
+"your payment is overdue, please settle immediately waiting for your feedback urgent",payment_overdue
+can you provide the invoice for this transaction? thanks,invoice_request
+where should we transfer the payment? send bank details urgent,bank_details_request
+we have a question regarding your pricing and billing please assist,general_finance_inquiry
+where should we transfer the payment? send bank details waiting for your feedback waiting for your feedback,bank_details_request
+where should we transfer the payment? send bank details please treat as priority,bank_details_request
+kindly confirm your bank details for settlement,bank_details_request
+we have completed payment for invoice number 2040,payment_confirmed
+i need the invoice copy for accounting purposes waiting for your feedback urgent,invoice_request
+kindly resend the invoice document please assist thanks,invoice_request
+"we have not received payment, kindly pay as soon as possible please assist this is important",payment_overdue
+"your payment is overdue, please settle immediately waiting for your feedback urgent",payment_overdue
+where should we transfer the payment? send bank details thanks please assist,bank_details_request
+can you confirm the total outstanding balance? please treat as priority asap,general_finance_inquiry
+kindly confirm your bank details for settlement urgent,bank_details_request
+"the invoice has been settled, see payment slip attached urgent",payment_confirmed
+attached is proof of payment for the invoice thanks please assist,payment_confirmed
+"we have paid the invoice, kindly confirm receipt waiting for your feedback asap",payment_confirmed
+"we have paid the invoice, kindly confirm receipt this is important asap",payment_confirmed
+send your payment account details for transfer asap,bank_details_request
+kindly confirm you received the payment please assist,payment_confirmed
+this is a reminder that your invoice is past due,payment_overdue
+please clarify the charges on the invoice,general_finance_inquiry
+"your payment is overdue, please settle immediately please assist",payment_overdue
+"your account is overdue, settle the invoice urgently this is important",payment_overdue
+kindly confirm your bank details for settlement,bank_details_request
+kindly send your account number and bank name kindly respond,bank_details_request
+what is the due date for this invoice? waiting for your feedback,general_finance_inquiry
+kindly confirm you received the payment,payment_confirmed
+kindly resend the invoice document,invoice_request
+kindly resend the invoice document please assist urgent,invoice_request
+kindly confirm your bank details for settlement,bank_details_request
+can you provide the invoice for this transaction? urgent,invoice_request
+please send the invoice for last month thanks,invoice_request
+"we have paid the invoice, kindly confirm receipt kindly respond",payment_confirmed
+please clarify the charges on the invoice this is important,general_finance_inquiry
+where should we transfer the payment? send bank details kindly respond,bank_details_request
+please share your bank account details kindly respond,bank_details_request
+this is a reminder that your invoice is past due,payment_overdue
+invoice remains unpaid despite previous reminders urgent,payment_overdue
+where should we transfer the payment? send bank details thanks,bank_details_request
+send your payment account details for transfer thanks,bank_details_request
+"your account is overdue, settle the invoice urgently kindly respond waiting for your feedback",payment_overdue
+can you share your finance department contact? thanks,general_finance_inquiry
+kindly confirm you received the payment kindly respond please assist,payment_confirmed
+kindly resend the invoice document this is important,invoice_request
+this is a reminder that your invoice is past due waiting for your feedback please treat as priority,payment_overdue
+can you provide the invoice for this transaction? please assist,invoice_request
+please generate and send an invoice for my payment,invoice_request
+what is the due date for this invoice? kindly respond,general_finance_inquiry
+can you share your finance department contact?,general_finance_inquiry
+"your payment is overdue, please settle immediately urgent",payment_overdue
+"your account is overdue, settle the invoice urgently",payment_overdue
+can you provide the invoice for this transaction? kindly respond kindly respond,invoice_request
+"payment has been made successfully, please acknowledge please treat as priority",payment_confirmed
+"the invoice has been settled, see payment slip attached",payment_confirmed
+"we have paid the invoice, kindly confirm receipt please assist this is important",payment_confirmed
+"your account is overdue, settle the invoice urgently asap",payment_overdue
+"we have paid the invoice, kindly confirm receipt kindly respond asap",payment_confirmed
+we have completed payment for invoice number 2040 kindly respond,payment_confirmed
+this is a reminder that your invoice is past due,payment_overdue
+"the invoice has been settled, see payment slip attached",payment_confirmed
+kindly send your account number and bank name asap,bank_details_request
+this is a reminder that your invoice is past due urgent,payment_overdue
+can you provide the invoice for this transaction? kindly respond please assist,invoice_request
+kindly confirm your bank details for settlement,bank_details_request
+invoice remains unpaid despite previous reminders please assist,payment_overdue
+this is a reminder that your invoice is past due waiting for your feedback,payment_overdue
+this is a reminder that your invoice is past due asap,payment_overdue
+please share your bank account details please treat as priority,bank_details_request
+kindly confirm you received the payment,payment_confirmed
+can you confirm the total outstanding balance?,general_finance_inquiry
+invoice remains unpaid despite previous reminders please treat as priority,payment_overdue
+can you provide the invoice for this transaction? this is important waiting for your feedback,invoice_request
+this is a reminder that your invoice is past due waiting for your feedback,payment_overdue
+kindly confirm you received the payment urgent,payment_confirmed
+kindly send your account number and bank name kindly respond,bank_details_request
+we have completed payment for invoice number 2040,payment_confirmed
+can you confirm the total outstanding balance? thanks waiting for your feedback,general_finance_inquiry
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+kindly confirm your bank details for settlement kindly respond,bank_details_request
+we have completed payment for invoice number 2040 please assist,payment_confirmed
+this is a reminder that your invoice is past due please treat as priority,payment_overdue
+kindly explain the breakdown of charges kindly respond,general_finance_inquiry
+kindly send your account number and bank name,bank_details_request
+"i did not receive the invoice, please share it please assist",invoice_request
+"we have not received payment, kindly pay as soon as possible kindly respond",payment_overdue
+kindly confirm your bank details for settlement please assist,bank_details_request
+please share your bank account details please assist,bank_details_request
+please provide your iban or bank information urgent,bank_details_request
+we have completed payment for invoice number 2040 waiting for your feedback asap,payment_confirmed
+please clarify the charges on the invoice this is important urgent,general_finance_inquiry
+please send the invoice for last month please treat as priority,invoice_request
+this is a reminder that your invoice is past due thanks,payment_overdue
+kindly confirm your bank details for settlement,bank_details_request
+attached is proof of payment for the invoice asap,payment_confirmed
+please clarify the charges on the invoice,general_finance_inquiry
+we have a question regarding your pricing and billing please treat as priority,general_finance_inquiry
+please provide your iban or bank information please treat as priority waiting for your feedback,bank_details_request
+i need the invoice copy for accounting purposes please treat as priority urgent,invoice_request
+i need the invoice copy for accounting purposes please treat as priority,invoice_request
+please note your outstanding balance is overdue waiting for your feedback,payment_overdue
+we have completed payment for invoice number 2040 urgent please assist,payment_confirmed
+we have a question regarding your pricing and billing asap waiting for your feedback,general_finance_inquiry
+please clarify the charges on the invoice kindly respond,general_finance_inquiry
+please clarify the charges on the invoice asap,general_finance_inquiry
+"your account is overdue, settle the invoice urgently kindly respond",payment_overdue
+kindly explain the breakdown of charges waiting for your feedback thanks,general_finance_inquiry
+this is a reminder that your invoice is past due asap,payment_overdue
+please clarify the charges on the invoice,general_finance_inquiry
+can you provide the invoice for this transaction? kindly respond,invoice_request
+this is a reminder that your invoice is past due asap,payment_overdue
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+please note your outstanding balance is overdue please assist,payment_overdue
+please clarify the charges on the invoice,general_finance_inquiry
+"your payment is overdue, please settle immediately kindly respond",payment_overdue
+kindly resend the invoice document thanks,invoice_request
+"your payment is overdue, please settle immediately please treat as priority urgent",payment_overdue
+kindly send your account number and bank name this is important,bank_details_request
+please send the invoice for last month,invoice_request
+please provide your iban or bank information kindly respond,bank_details_request
+where should we transfer the payment? send bank details please treat as priority,bank_details_request
+attached is proof of payment for the invoice this is important please treat as priority,payment_confirmed
+we have completed payment for invoice number 2040 thanks kindly respond,payment_confirmed
+kindly confirm your bank details for settlement kindly respond,bank_details_request
+we have completed payment for invoice number 2040 please treat as priority,payment_confirmed
+can you confirm the total outstanding balance? this is important,general_finance_inquiry
+kindly send your account number and bank name please assist,bank_details_request
+what is the due date for this invoice?,general_finance_inquiry
+kindly resend the invoice document please assist,invoice_request
+"we have paid the invoice, kindly confirm receipt kindly respond",payment_confirmed
+please provide your iban or bank information kindly respond,bank_details_request
+can you confirm the total outstanding balance? urgent asap,general_finance_inquiry
+please clarify the charges on the invoice asap,general_finance_inquiry
+invoice remains unpaid despite previous reminders waiting for your feedback,payment_overdue
+"your account is overdue, settle the invoice urgently kindly respond thanks",payment_overdue
+kindly send your account number and bank name this is important,bank_details_request
+"we have not received payment, kindly pay as soon as possible",payment_overdue
+"your account is overdue, settle the invoice urgently please treat as priority asap",payment_overdue
+"the invoice has been settled, see payment slip attached",payment_confirmed
+please send the invoice for last month please treat as priority,invoice_request
+invoice remains unpaid despite previous reminders please assist,payment_overdue
+kindly confirm you received the payment this is important,payment_confirmed
+send your payment account details for transfer this is important asap,bank_details_request
+can you confirm the total outstanding balance? waiting for your feedback please assist,general_finance_inquiry
+please generate and send an invoice for my payment waiting for your feedback asap,invoice_request
+kindly send your account number and bank name kindly respond this is important,bank_details_request
+kindly explain the breakdown of charges,general_finance_inquiry
+kindly explain the breakdown of charges,general_finance_inquiry
+this is a reminder that your invoice is past due,payment_overdue
+kindly confirm your bank details for settlement,bank_details_request
+"the invoice has been settled, see payment slip attached asap",payment_confirmed
+please clarify the charges on the invoice urgent,general_finance_inquiry
+please share your bank account details waiting for your feedback,bank_details_request
+kindly confirm you received the payment,payment_confirmed
+i need the invoice copy for accounting purposes please treat as priority this is important,invoice_request
+we have a question regarding your pricing and billing,general_finance_inquiry
+"the invoice has been settled, see payment slip attached waiting for your feedback kindly respond",payment_confirmed
+kindly send your account number and bank name,bank_details_request
+where should we transfer the payment? send bank details please assist,bank_details_request
+please clarify the charges on the invoice please assist,general_finance_inquiry
+"i did not receive the invoice, please share it this is important",invoice_request
+what is the due date for this invoice? this is important,general_finance_inquiry
+we have a question regarding your pricing and billing waiting for your feedback,general_finance_inquiry
+can you confirm the total outstanding balance?,general_finance_inquiry
+"the invoice has been settled, see payment slip attached waiting for your feedback",payment_confirmed
+please provide your iban or bank information urgent please assist,bank_details_request
+what is the due date for this invoice? waiting for your feedback,general_finance_inquiry
+"we have not received payment, kindly pay as soon as possible this is important",payment_overdue
+"your payment is overdue, please settle immediately urgent",payment_overdue
+please provide your iban or bank information this is important please treat as priority,bank_details_request
+please share your bank account details,bank_details_request
+can you confirm the total outstanding balance? please assist thanks,general_finance_inquiry
+can you confirm the total outstanding balance? asap asap,general_finance_inquiry
+can you share your finance department contact? kindly respond please treat as priority,general_finance_inquiry
+invoice remains unpaid despite previous reminders please assist,payment_overdue
+"payment has been made successfully, please acknowledge waiting for your feedback asap",payment_confirmed
+can you provide the invoice for this transaction? please assist,invoice_request
+can you provide the invoice for this transaction? urgent please assist,invoice_request
+kindly resend the invoice document thanks,invoice_request
+"we have paid the invoice, kindly confirm receipt kindly respond",payment_confirmed
+this is a reminder that your invoice is past due waiting for your feedback,payment_overdue
+"i did not receive the invoice, please share it",invoice_request
+can you provide the invoice for this transaction? kindly respond asap,invoice_request
+"payment has been made successfully, please acknowledge",payment_confirmed
+can you share your finance department contact?,general_finance_inquiry
+send your payment account details for transfer asap please treat as priority,bank_details_request
+kindly confirm your bank details for settlement please treat as priority,bank_details_request
+"the invoice has been settled, see payment slip attached this is important this is important",payment_confirmed
+we have completed payment for invoice number 2040 this is important,payment_confirmed
+what is the due date for this invoice?,general_finance_inquiry
+please note your outstanding balance is overdue,payment_overdue
+please provide your iban or bank information kindly respond,bank_details_request
+"payment has been made successfully, please acknowledge",payment_confirmed
+what is the due date for this invoice? please assist,general_finance_inquiry
+attached is proof of payment for the invoice,payment_confirmed
+where should we transfer the payment? send bank details,bank_details_request
+send your payment account details for transfer please assist,bank_details_request
+"we have paid the invoice, kindly confirm receipt please treat as priority kindly respond",payment_confirmed
+please generate and send an invoice for my payment please assist asap,invoice_request
+send your payment account details for transfer this is important,bank_details_request
+please provide your iban or bank information kindly respond urgent,bank_details_request
+"we have not received payment, kindly pay as soon as possible urgent",payment_overdue
+we have a question regarding your pricing and billing,general_finance_inquiry
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+we have completed payment for invoice number 2040 thanks,payment_confirmed
+kindly confirm your bank details for settlement,bank_details_request
+please note your outstanding balance is overdue please assist,payment_overdue
+can you share your finance department contact? asap waiting for your feedback,general_finance_inquiry
+please send the invoice for last month asap kindly respond,invoice_request
+where should we transfer the payment? send bank details,bank_details_request
+please generate and send an invoice for my payment,invoice_request
+we have completed payment for invoice number 2040 this is important,payment_confirmed
+please clarify the charges on the invoice this is important please assist,general_finance_inquiry
+kindly confirm you received the payment kindly respond,payment_confirmed
+"we have not received payment, kindly pay as soon as possible",payment_overdue
+i need the invoice copy for accounting purposes,invoice_request
+i need the invoice copy for accounting purposes thanks this is important,invoice_request
+"we have not received payment, kindly pay as soon as possible kindly respond please treat as priority",payment_overdue
+please send the invoice for last month asap,invoice_request
+can you share your finance department contact? please treat as priority,general_finance_inquiry
+can you confirm the total outstanding balance? waiting for your feedback urgent,general_finance_inquiry
+i need the invoice copy for accounting purposes this is important,invoice_request
+please send the invoice for last month urgent,invoice_request
+send your payment account details for transfer waiting for your feedback,bank_details_request
+"we have not received payment, kindly pay as soon as possible thanks",payment_overdue
+can you provide the invoice for this transaction? please treat as priority please assist,invoice_request
+we have completed payment for invoice number 2040 urgent,payment_confirmed
+"we have paid the invoice, kindly confirm receipt please assist",payment_confirmed
+send your payment account details for transfer kindly respond,bank_details_request
+kindly confirm you received the payment urgent please treat as priority,payment_confirmed
+send your payment account details for transfer this is important thanks,bank_details_request
+"we have not received payment, kindly pay as soon as possible",payment_overdue
+please send the invoice for last month please treat as priority waiting for your feedback,invoice_request
+please provide your iban or bank information please assist thanks,bank_details_request
+"the invoice has been settled, see payment slip attached",payment_confirmed
+we have a question regarding your pricing and billing kindly respond,general_finance_inquiry
+what is the due date for this invoice?,general_finance_inquiry
+"the invoice has been settled, see payment slip attached this is important",payment_confirmed
+what is the due date for this invoice? this is important,general_finance_inquiry
+can you share your finance department contact? thanks,general_finance_inquiry
+can you confirm the total outstanding balance? thanks,general_finance_inquiry
+invoice remains unpaid despite previous reminders this is important,payment_overdue
+"we have paid the invoice, kindly confirm receipt please assist",payment_confirmed
+"your account is overdue, settle the invoice urgently waiting for your feedback",payment_overdue
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+"your payment is overdue, please settle immediately please treat as priority",payment_overdue
+kindly resend the invoice document please assist,invoice_request
+kindly send your account number and bank name waiting for your feedback,bank_details_request
+we have a question regarding your pricing and billing this is important,general_finance_inquiry
+"your account is overdue, settle the invoice urgently thanks",payment_overdue
+please note your outstanding balance is overdue thanks,payment_overdue
+we have completed payment for invoice number 2040 please treat as priority thanks,payment_confirmed
+please send the invoice for last month asap please treat as priority,invoice_request
+"we have not received payment, kindly pay as soon as possible kindly respond",payment_overdue
+we have a question regarding your pricing and billing asap,general_finance_inquiry
+we have a question regarding your pricing and billing,general_finance_inquiry
+kindly resend the invoice document,invoice_request
+can you provide the invoice for this transaction? waiting for your feedback,invoice_request
+we have a question regarding your pricing and billing,general_finance_inquiry
+attached is proof of payment for the invoice please treat as priority,payment_confirmed
+can you provide the invoice for this transaction? asap kindly respond,invoice_request
+we have a question regarding your pricing and billing thanks kindly respond,general_finance_inquiry
+please clarify the charges on the invoice please assist kindly respond,general_finance_inquiry
+please clarify the charges on the invoice please assist,general_finance_inquiry
+can you share your finance department contact? asap,general_finance_inquiry
+"the invoice has been settled, see payment slip attached thanks",payment_confirmed
+invoice remains unpaid despite previous reminders please treat as priority,payment_overdue
+"the invoice has been settled, see payment slip attached thanks this is important",payment_confirmed
+invoice remains unpaid despite previous reminders kindly respond please assist,payment_overdue
+kindly confirm you received the payment,payment_confirmed
+can you provide the invoice for this transaction? this is important please assist,invoice_request
+what is the due date for this invoice? urgent,general_finance_inquiry
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+kindly explain the breakdown of charges please treat as priority,general_finance_inquiry
+"the invoice has been settled, see payment slip attached thanks",payment_confirmed
+"we have not received payment, kindly pay as soon as possible kindly respond kindly respond",payment_overdue
+can you share your finance department contact? this is important,general_finance_inquiry
+kindly confirm you received the payment,payment_confirmed
+can you share your finance department contact? urgent,general_finance_inquiry
+"we have not received payment, kindly pay as soon as possible kindly respond thanks",payment_overdue
+"we have not received payment, kindly pay as soon as possible kindly respond",payment_overdue
+please send the invoice for last month thanks,invoice_request
+can you confirm the total outstanding balance? kindly respond,general_finance_inquiry
+kindly send your account number and bank name,bank_details_request
+kindly confirm you received the payment urgent,payment_confirmed
+attached is proof of payment for the invoice waiting for your feedback,payment_confirmed
+"payment has been made successfully, please acknowledge please treat as priority kindly respond",payment_confirmed
+can you confirm the total outstanding balance? waiting for your feedback,general_finance_inquiry
+can you share your finance department contact? this is important this is important,general_finance_inquiry
+can you provide the invoice for this transaction? this is important,invoice_request
+can you provide the invoice for this transaction? this is important,invoice_request
+kindly send your account number and bank name this is important kindly respond,bank_details_request
+"the invoice has been settled, see payment slip attached this is important",payment_confirmed
+invoice remains unpaid despite previous reminders,payment_overdue
+please generate and send an invoice for my payment kindly respond,invoice_request
+kindly resend the invoice document asap,invoice_request
+please note your outstanding balance is overdue kindly respond,payment_overdue
+invoice remains unpaid despite previous reminders this is important,payment_overdue
+this is a reminder that your invoice is past due this is important,payment_overdue
+invoice remains unpaid despite previous reminders asap please treat as priority,payment_overdue
+kindly confirm you received the payment asap this is important,payment_confirmed
+please note your outstanding balance is overdue kindly respond waiting for your feedback,payment_overdue
+"we have not received payment, kindly pay as soon as possible asap",payment_overdue
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+"we have paid the invoice, kindly confirm receipt asap",payment_confirmed
+please send the invoice for last month,invoice_request
+"payment has been made successfully, please acknowledge",payment_confirmed
+"we have not received payment, kindly pay as soon as possible asap",payment_overdue
+"your account is overdue, settle the invoice urgently please treat as priority this is important",payment_overdue
+kindly explain the breakdown of charges please assist,general_finance_inquiry
+kindly confirm your bank details for settlement kindly respond,bank_details_request
+we have completed payment for invoice number 2040 kindly respond,payment_confirmed
+"the invoice has been settled, see payment slip attached asap",payment_confirmed
+kindly resend the invoice document,invoice_request
+what is the due date for this invoice? kindly respond please assist,general_finance_inquiry
+attached is proof of payment for the invoice,payment_confirmed
+kindly confirm your bank details for settlement waiting for your feedback,bank_details_request
+we have a question regarding your pricing and billing thanks please treat as priority,general_finance_inquiry
+please provide your iban or bank information waiting for your feedback,bank_details_request
+please clarify the charges on the invoice please assist,general_finance_inquiry
+please share your bank account details urgent urgent,bank_details_request
+can you confirm the total outstanding balance? kindly respond,general_finance_inquiry
+"payment has been made successfully, please acknowledge please treat as priority waiting for your feedback",payment_confirmed
+kindly resend the invoice document thanks,invoice_request
+kindly confirm your bank details for settlement urgent kindly respond,bank_details_request
+send your payment account details for transfer please treat as priority urgent,bank_details_request
+can you confirm the total outstanding balance? please assist,general_finance_inquiry
+please clarify the charges on the invoice this is important,general_finance_inquiry
+kindly send your account number and bank name,bank_details_request
+can you confirm the total outstanding balance? please treat as priority,general_finance_inquiry
+attached is proof of payment for the invoice,payment_confirmed
+please note your outstanding balance is overdue,payment_overdue
+can you provide the invoice for this transaction?,invoice_request
+please send the invoice for last month this is important,invoice_request
+invoice remains unpaid despite previous reminders waiting for your feedback urgent,payment_overdue
+kindly send your account number and bank name waiting for your feedback this is important,bank_details_request
+please send the invoice for last month waiting for your feedback waiting for your feedback,invoice_request
+"we have not received payment, kindly pay as soon as possible asap please assist",payment_overdue
+please provide your iban or bank information please assist,bank_details_request
+i need the invoice copy for accounting purposes please assist asap,invoice_request
+"your payment is overdue, please settle immediately waiting for your feedback",payment_overdue
+please clarify the charges on the invoice thanks,general_finance_inquiry
+please share your bank account details urgent this is important,bank_details_request
+"i did not receive the invoice, please share it please assist thanks",invoice_request
+attached is proof of payment for the invoice,payment_confirmed
+"i did not receive the invoice, please share it please treat as priority",invoice_request
+"i did not receive the invoice, please share it please treat as priority thanks",invoice_request
+"your payment is overdue, please settle immediately please assist kindly respond",payment_overdue
+"we have not received payment, kindly pay as soon as possible",payment_overdue
+"payment has been made successfully, please acknowledge please assist",payment_confirmed
+kindly resend the invoice document thanks this is important,invoice_request
+we have a question regarding your pricing and billing urgent,general_finance_inquiry
+"i did not receive the invoice, please share it urgent",invoice_request
+"your account is overdue, settle the invoice urgently thanks waiting for your feedback",payment_overdue
+"the invoice has been settled, see payment slip attached kindly respond",payment_confirmed
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+we have completed payment for invoice number 2040,payment_confirmed
+we have completed payment for invoice number 2040 waiting for your feedback,payment_confirmed
+we have a question regarding your pricing and billing,general_finance_inquiry
+this is a reminder that your invoice is past due,payment_overdue
+we have a question regarding your pricing and billing please treat as priority urgent,general_finance_inquiry
+please clarify the charges on the invoice,general_finance_inquiry
+please generate and send an invoice for my payment this is important,invoice_request
+where should we transfer the payment? send bank details this is important,bank_details_request
+"i did not receive the invoice, please share it",invoice_request
+attached is proof of payment for the invoice kindly respond,payment_confirmed
+"payment has been made successfully, please acknowledge",payment_confirmed
+"we have not received payment, kindly pay as soon as possible this is important",payment_overdue
+"the invoice has been settled, see payment slip attached thanks",payment_confirmed
+please send the invoice for last month this is important urgent,invoice_request
+please provide your iban or bank information asap,bank_details_request
+we have a question regarding your pricing and billing please treat as priority,general_finance_inquiry
+"your account is overdue, settle the invoice urgently asap",payment_overdue
+"we have paid the invoice, kindly confirm receipt waiting for your feedback",payment_confirmed
+please generate and send an invoice for my payment waiting for your feedback this is important,invoice_request
+we have a question regarding your pricing and billing,general_finance_inquiry
+this is a reminder that your invoice is past due kindly respond this is important,payment_overdue
+please provide your iban or bank information urgent asap,bank_details_request
+"we have not received payment, kindly pay as soon as possible this is important",payment_overdue
+"i did not receive the invoice, please share it asap waiting for your feedback",invoice_request
+can you provide the invoice for this transaction? please assist kindly respond,invoice_request
+please note your outstanding balance is overdue please assist,payment_overdue
+"we have not received payment, kindly pay as soon as possible thanks",payment_overdue
+"we have not received payment, kindly pay as soon as possible this is important urgent",payment_overdue
+can you share your finance department contact? asap,general_finance_inquiry
+please clarify the charges on the invoice asap,general_finance_inquiry
+"we have not received payment, kindly pay as soon as possible",payment_overdue
+kindly confirm you received the payment this is important,payment_confirmed
+send your payment account details for transfer asap asap,bank_details_request
+please clarify the charges on the invoice please treat as priority waiting for your feedback,general_finance_inquiry
+"payment has been made successfully, please acknowledge please treat as priority please treat as priority",payment_confirmed
+send your payment account details for transfer urgent urgent,bank_details_request
+"i did not receive the invoice, please share it",invoice_request
+i need the invoice copy for accounting purposes asap,invoice_request
+we have completed payment for invoice number 2040 this is important,payment_confirmed
+invoice remains unpaid despite previous reminders,payment_overdue
+please share your bank account details urgent,bank_details_request
+attached is proof of payment for the invoice please treat as priority,payment_confirmed
+kindly confirm you received the payment this is important asap,payment_confirmed
+"your payment is overdue, please settle immediately please assist",payment_overdue
+i need the invoice copy for accounting purposes,invoice_request
+please note your outstanding balance is overdue,payment_overdue
+kindly send your account number and bank name,bank_details_request
+kindly explain the breakdown of charges thanks urgent,general_finance_inquiry
+attached is proof of payment for the invoice waiting for your feedback,payment_confirmed
+"we have not received payment, kindly pay as soon as possible please treat as priority",payment_overdue
+attached is proof of payment for the invoice,payment_confirmed
+can you provide the invoice for this transaction?,invoice_request
+can you confirm the total outstanding balance? kindly respond,general_finance_inquiry
+invoice remains unpaid despite previous reminders asap,payment_overdue
+please clarify the charges on the invoice,general_finance_inquiry
+this is a reminder that your invoice is past due,payment_overdue
+please provide your iban or bank information thanks please assist,bank_details_request
+send your payment account details for transfer asap,bank_details_request
+this is a reminder that your invoice is past due please assist please assist,payment_overdue
+"we have paid the invoice, kindly confirm receipt asap",payment_confirmed
+please generate and send an invoice for my payment,invoice_request
+can you provide the invoice for this transaction? this is important,invoice_request
+"i did not receive the invoice, please share it please treat as priority",invoice_request
+can you confirm the total outstanding balance? thanks this is important,general_finance_inquiry
+please send the invoice for last month kindly respond,invoice_request
+we have a question regarding your pricing and billing this is important this is important,general_finance_inquiry
+i need the invoice copy for accounting purposes kindly respond,invoice_request
+where should we transfer the payment? send bank details please assist,bank_details_request
+attached is proof of payment for the invoice thanks thanks,payment_confirmed
+"payment has been made successfully, please acknowledge",payment_confirmed
+please share your bank account details urgent,bank_details_request
+send your payment account details for transfer please treat as priority kindly respond,bank_details_request
+we have completed payment for invoice number 2040 urgent,payment_confirmed
+kindly confirm you received the payment kindly respond,payment_confirmed
+"your payment is overdue, please settle immediately thanks waiting for your feedback",payment_overdue
+please provide your iban or bank information,bank_details_request
+can you share your finance department contact? please treat as priority,general_finance_inquiry
+this is a reminder that your invoice is past due asap,payment_overdue
+can you share your finance department contact?,general_finance_inquiry
+where should we transfer the payment? send bank details waiting for your feedback,bank_details_request
+send your payment account details for transfer,bank_details_request
+kindly confirm you received the payment,payment_confirmed
+please note your outstanding balance is overdue,payment_overdue
+can you provide the invoice for this transaction? waiting for your feedback asap,invoice_request
+"we have paid the invoice, kindly confirm receipt waiting for your feedback",payment_confirmed
+where should we transfer the payment? send bank details thanks asap,bank_details_request
+kindly explain the breakdown of charges asap urgent,general_finance_inquiry
+this is a reminder that your invoice is past due,payment_overdue
+please provide your iban or bank information asap thanks,bank_details_request
+send your payment account details for transfer,bank_details_request
+attached is proof of payment for the invoice please assist,payment_confirmed
+"i did not receive the invoice, please share it",invoice_request
+please generate and send an invoice for my payment this is important,invoice_request
+we have a question regarding your pricing and billing please treat as priority,general_finance_inquiry
+please send the invoice for last month please treat as priority this is important,invoice_request
+"the invoice has been settled, see payment slip attached please assist",payment_confirmed
+please share your bank account details this is important,bank_details_request
+kindly send your account number and bank name asap,bank_details_request
+"the invoice has been settled, see payment slip attached this is important",payment_confirmed
+can you share your finance department contact? asap,general_finance_inquiry
+kindly confirm you received the payment waiting for your feedback,payment_confirmed
+kindly send your account number and bank name thanks,bank_details_request
+this is a reminder that your invoice is past due asap,payment_overdue
+can you provide the invoice for this transaction?,invoice_request
+"your payment is overdue, please settle immediately waiting for your feedback kindly respond",payment_overdue
+please share your bank account details this is important,bank_details_request
+what is the due date for this invoice? please assist,general_finance_inquiry
+we have completed payment for invoice number 2040 this is important,payment_confirmed
+attached is proof of payment for the invoice waiting for your feedback,payment_confirmed
+i need the invoice copy for accounting purposes this is important,invoice_request
+"the invoice has been settled, see payment slip attached thanks kindly respond",payment_confirmed
+"payment has been made successfully, please acknowledge",payment_confirmed
+"payment has been made successfully, please acknowledge please treat as priority this is important",payment_confirmed
+we have a question regarding your pricing and billing please assist,general_finance_inquiry
+kindly confirm you received the payment please treat as priority kindly respond,payment_confirmed
+we have a question regarding your pricing and billing waiting for your feedback,general_finance_inquiry
+send your payment account details for transfer asap waiting for your feedback,bank_details_request
+we have completed payment for invoice number 2040 asap thanks,payment_confirmed
+can you share your finance department contact? waiting for your feedback asap,general_finance_inquiry
+send your payment account details for transfer waiting for your feedback asap,bank_details_request
+please note your outstanding balance is overdue asap,payment_overdue
+can you confirm the total outstanding balance?,general_finance_inquiry
+attached is proof of payment for the invoice thanks,payment_confirmed
+we have completed payment for invoice number 2040 asap,payment_confirmed
+invoice remains unpaid despite previous reminders this is important,payment_overdue
+we have completed payment for invoice number 2040 this is important,payment_confirmed
+kindly send your account number and bank name please treat as priority,bank_details_request
+can you share your finance department contact? asap,general_finance_inquiry
+kindly resend the invoice document thanks,invoice_request
+"payment has been made successfully, please acknowledge waiting for your feedback please treat as priority",payment_confirmed
+"i did not receive the invoice, please share it",invoice_request
+"i did not receive the invoice, please share it thanks",invoice_request
+please generate and send an invoice for my payment please treat as priority,invoice_request
+kindly confirm you received the payment urgent,payment_confirmed
+"we have paid the invoice, kindly confirm receipt asap",payment_confirmed
+attached is proof of payment for the invoice please assist,payment_confirmed
+this is a reminder that your invoice is past due asap,payment_overdue
+please generate and send an invoice for my payment waiting for your feedback,invoice_request
+we have completed payment for invoice number 2040 please treat as priority,payment_confirmed
+can you share your finance department contact? thanks,general_finance_inquiry
+"we have paid the invoice, kindly confirm receipt please treat as priority",payment_confirmed
+"your payment is overdue, please settle immediately waiting for your feedback thanks",payment_overdue
+please share your bank account details please treat as priority,bank_details_request
+i need the invoice copy for accounting purposes asap,invoice_request
+can you provide the invoice for this transaction? this is important,invoice_request
+"we have not received payment, kindly pay as soon as possible please assist",payment_overdue
+this is a reminder that your invoice is past due kindly respond,payment_overdue
+"payment has been made successfully, please acknowledge asap",payment_confirmed
+please clarify the charges on the invoice thanks,general_finance_inquiry
+kindly resend the invoice document urgent,invoice_request
+we have completed payment for invoice number 2040 waiting for your feedback,payment_confirmed
+attached is proof of payment for the invoice waiting for your feedback urgent,payment_confirmed
+kindly send your account number and bank name please assist,bank_details_request
+please send the invoice for last month urgent this is important,invoice_request
+we have a question regarding your pricing and billing please treat as priority,general_finance_inquiry
+please note your outstanding balance is overdue asap,payment_overdue
+can you confirm the total outstanding balance? urgent,general_finance_inquiry
+"we have paid the invoice, kindly confirm receipt thanks",payment_confirmed
+kindly send your account number and bank name asap,bank_details_request
+kindly confirm your bank details for settlement urgent please assist,bank_details_request
+kindly explain the breakdown of charges asap asap,general_finance_inquiry
+kindly explain the breakdown of charges this is important,general_finance_inquiry
+attached is proof of payment for the invoice asap,payment_confirmed
+invoice remains unpaid despite previous reminders waiting for your feedback,payment_overdue
+we have completed payment for invoice number 2040 waiting for your feedback,payment_confirmed
+"your payment is overdue, please settle immediately this is important",payment_overdue
+i need the invoice copy for accounting purposes waiting for your feedback,invoice_request
+can you provide the invoice for this transaction? asap,invoice_request
+"i did not receive the invoice, please share it this is important",invoice_request
+attached is proof of payment for the invoice this is important this is important,payment_confirmed
+please send the invoice for last month urgent,invoice_request
+send your payment account details for transfer,bank_details_request
+kindly confirm your bank details for settlement this is important,bank_details_request
+please note your outstanding balance is overdue please treat as priority waiting for your feedback,payment_overdue
+invoice remains unpaid despite previous reminders please treat as priority,payment_overdue
+invoice remains unpaid despite previous reminders please assist,payment_overdue
+please send the invoice for last month,invoice_request
+please clarify the charges on the invoice please assist,general_finance_inquiry
+"we have not received payment, kindly pay as soon as possible asap",payment_overdue
+invoice remains unpaid despite previous reminders,payment_overdue
+i need the invoice copy for accounting purposes waiting for your feedback,invoice_request
+please note your outstanding balance is overdue waiting for your feedback please treat as priority,payment_overdue
+i need the invoice copy for accounting purposes please treat as priority,invoice_request
+please generate and send an invoice for my payment please assist,invoice_request
+send your payment account details for transfer kindly respond,bank_details_request
+invoice remains unpaid despite previous reminders please assist,payment_overdue
+kindly explain the breakdown of charges this is important,general_finance_inquiry
+kindly send your account number and bank name,bank_details_request
+please share your bank account details waiting for your feedback,bank_details_request
+what is the due date for this invoice? please assist,general_finance_inquiry
+kindly send your account number and bank name waiting for your feedback,bank_details_request
+"i did not receive the invoice, please share it kindly respond",invoice_request
+"the invoice has been settled, see payment slip attached kindly respond waiting for your feedback",payment_confirmed
+where should we transfer the payment? send bank details waiting for your feedback,bank_details_request
+"your payment is overdue, please settle immediately this is important please assist",payment_overdue
+invoice remains unpaid despite previous reminders,payment_overdue
+"we have not received payment, kindly pay as soon as possible",payment_overdue
+please clarify the charges on the invoice this is important,general_finance_inquiry
+"your payment is overdue, please settle immediately please treat as priority",payment_overdue
+kindly explain the breakdown of charges urgent waiting for your feedback,general_finance_inquiry
+please provide your iban or bank information thanks,bank_details_request
+kindly resend the invoice document thanks asap,invoice_request
+we have completed payment for invoice number 2040 please treat as priority,payment_confirmed
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+kindly explain the breakdown of charges urgent thanks,general_finance_inquiry
+kindly send your account number and bank name kindly respond,bank_details_request
+invoice remains unpaid despite previous reminders,payment_overdue
+please send the invoice for last month kindly respond,invoice_request
+kindly send your account number and bank name this is important,bank_details_request
+can you provide the invoice for this transaction? please assist this is important,invoice_request
+where should we transfer the payment? send bank details,bank_details_request
+kindly resend the invoice document urgent,invoice_request
+where should we transfer the payment? send bank details thanks,bank_details_request
+please provide your iban or bank information please assist thanks,bank_details_request
+please send the invoice for last month,invoice_request
+what is the due date for this invoice? urgent,general_finance_inquiry
+where should we transfer the payment? send bank details thanks waiting for your feedback,bank_details_request
+what is the due date for this invoice?,general_finance_inquiry
+please clarify the charges on the invoice please treat as priority,general_finance_inquiry
+"payment has been made successfully, please acknowledge this is important",payment_confirmed
+can you share your finance department contact? asap asap,general_finance_inquiry
+we have completed payment for invoice number 2040,payment_confirmed
+we have a question regarding your pricing and billing this is important,general_finance_inquiry
+kindly confirm you received the payment kindly respond,payment_confirmed
+we have completed payment for invoice number 2040 asap,payment_confirmed
+where should we transfer the payment? send bank details waiting for your feedback,bank_details_request
+please provide your iban or bank information,bank_details_request
+what is the due date for this invoice? please treat as priority,general_finance_inquiry
+kindly confirm your bank details for settlement,bank_details_request
+please send the invoice for last month asap waiting for your feedback,invoice_request
+please share your bank account details please treat as priority,bank_details_request
+can you provide the invoice for this transaction? kindly respond,invoice_request
+kindly explain the breakdown of charges please treat as priority,general_finance_inquiry
+this is a reminder that your invoice is past due,payment_overdue
+"payment has been made successfully, please acknowledge",payment_confirmed
+kindly confirm your bank details for settlement waiting for your feedback asap,bank_details_request
+please clarify the charges on the invoice,general_finance_inquiry
+kindly confirm you received the payment please treat as priority,payment_confirmed
+please provide your iban or bank information urgent please assist,bank_details_request
+we have a question regarding your pricing and billing thanks,general_finance_inquiry
+please clarify the charges on the invoice,general_finance_inquiry
+please provide your iban or bank information thanks,bank_details_request
+please share your bank account details asap,bank_details_request
+can you provide the invoice for this transaction? please assist,invoice_request
+where should we transfer the payment? send bank details kindly respond thanks,bank_details_request
+we have completed payment for invoice number 2040,payment_confirmed
+send your payment account details for transfer this is important,bank_details_request
+can you share your finance department contact?,general_finance_inquiry
+please provide your iban or bank information kindly respond urgent,bank_details_request
+we have completed payment for invoice number 2040,payment_confirmed
+please send the invoice for last month,invoice_request
+we have a question regarding your pricing and billing urgent this is important,general_finance_inquiry
+"we have paid the invoice, kindly confirm receipt kindly respond",payment_confirmed
+"we have not received payment, kindly pay as soon as possible urgent",payment_overdue
+kindly explain the breakdown of charges urgent kindly respond,general_finance_inquiry
+please send the invoice for last month waiting for your feedback,invoice_request
+"the invoice has been settled, see payment slip attached",payment_confirmed
+"your account is overdue, settle the invoice urgently",payment_overdue
+kindly confirm you received the payment,payment_confirmed
+kindly send your account number and bank name,bank_details_request
+please share your bank account details,bank_details_request
+"i did not receive the invoice, please share it urgent",invoice_request
+attached is proof of payment for the invoice thanks,payment_confirmed
+"your payment is overdue, please settle immediately thanks",payment_overdue
+please share your bank account details please assist,bank_details_request
+please send the invoice for last month waiting for your feedback,invoice_request
+please provide your iban or bank information waiting for your feedback,bank_details_request
+where should we transfer the payment? send bank details asap,bank_details_request
+"your payment is overdue, please settle immediately thanks urgent",payment_overdue
+please note your outstanding balance is overdue,payment_overdue
+can you share your finance department contact? thanks,general_finance_inquiry
+i need the invoice copy for accounting purposes,invoice_request
+can you confirm the total outstanding balance? kindly respond,general_finance_inquiry
+we have a question regarding your pricing and billing asap,general_finance_inquiry
+this is a reminder that your invoice is past due,payment_overdue
+please note your outstanding balance is overdue waiting for your feedback,payment_overdue
+kindly confirm your bank details for settlement please assist urgent,bank_details_request
+please share your bank account details please treat as priority,bank_details_request
+please share your bank account details urgent please assist,bank_details_request
+can you share your finance department contact?,general_finance_inquiry
+"your payment is overdue, please settle immediately this is important",payment_overdue
+"i did not receive the invoice, please share it please treat as priority thanks",invoice_request
+send your payment account details for transfer urgent,bank_details_request
+i need the invoice copy for accounting purposes waiting for your feedback thanks,invoice_request
+please clarify the charges on the invoice asap,general_finance_inquiry
+what is the due date for this invoice? please assist,general_finance_inquiry
+can you provide the invoice for this transaction?,invoice_request
+"your account is overdue, settle the invoice urgently please assist",payment_overdue
+kindly send your account number and bank name thanks,bank_details_request
+this is a reminder that your invoice is past due asap,payment_overdue
+please send the invoice for last month thanks,invoice_request
+kindly confirm you received the payment please treat as priority,payment_confirmed
+we have completed payment for invoice number 2040 please assist,payment_confirmed
+can you provide the invoice for this transaction? this is important,invoice_request
+attached is proof of payment for the invoice,payment_confirmed
+please clarify the charges on the invoice thanks please treat as priority,general_finance_inquiry
+"payment has been made successfully, please acknowledge",payment_confirmed
+kindly confirm your bank details for settlement please treat as priority,bank_details_request
+please share your bank account details this is important,bank_details_request
+send your payment account details for transfer waiting for your feedback,bank_details_request
+"your payment is overdue, please settle immediately this is important",payment_overdue
+please generate and send an invoice for my payment urgent urgent,invoice_request
+this is a reminder that your invoice is past due,payment_overdue
+send your payment account details for transfer,bank_details_request
+can you confirm the total outstanding balance?,general_finance_inquiry
+kindly confirm your bank details for settlement,bank_details_request
+"we have not received payment, kindly pay as soon as possible please treat as priority",payment_overdue
+we have completed payment for invoice number 2040 urgent urgent,payment_confirmed
+"your account is overdue, settle the invoice urgently thanks",payment_overdue
+"your payment is overdue, please settle immediately please treat as priority",payment_overdue
+"your payment is overdue, please settle immediately thanks",payment_overdue
+"i did not receive the invoice, please share it",invoice_request
+we have completed payment for invoice number 2040 kindly respond,payment_confirmed
+please provide your iban or bank information,bank_details_request
+please generate and send an invoice for my payment kindly respond,invoice_request
+"payment has been made successfully, please acknowledge please assist",payment_confirmed
+where should we transfer the payment? send bank details this is important,bank_details_request
+can you provide the invoice for this transaction? please treat as priority,invoice_request
+i need the invoice copy for accounting purposes waiting for your feedback kindly respond,invoice_request
+we have a question regarding your pricing and billing,general_finance_inquiry
+this is a reminder that your invoice is past due please assist waiting for your feedback,payment_overdue
+"we have paid the invoice, kindly confirm receipt please treat as priority urgent",payment_confirmed
+please provide your iban or bank information,bank_details_request
+please clarify the charges on the invoice waiting for your feedback,general_finance_inquiry
+can you share your finance department contact? kindly respond,general_finance_inquiry
+send your payment account details for transfer asap,bank_details_request
+we have completed payment for invoice number 2040 waiting for your feedback,payment_confirmed
+please share your bank account details thanks,bank_details_request
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+please provide your iban or bank information waiting for your feedback,bank_details_request
+please note your outstanding balance is overdue waiting for your feedback,payment_overdue
+"payment has been made successfully, please acknowledge",payment_confirmed
+"your payment is overdue, please settle immediately urgent",payment_overdue
+"your payment is overdue, please settle immediately please assist asap",payment_overdue
+please note your outstanding balance is overdue kindly respond please treat as priority,payment_overdue
+"your payment is overdue, please settle immediately waiting for your feedback",payment_overdue
+please note your outstanding balance is overdue asap,payment_overdue
+"your account is overdue, settle the invoice urgently",payment_overdue
+please send the invoice for last month urgent this is important,invoice_request
+attached is proof of payment for the invoice waiting for your feedback asap,payment_confirmed
+"payment has been made successfully, please acknowledge please treat as priority",payment_confirmed
+"we have not received payment, kindly pay as soon as possible please treat as priority",payment_overdue
+we have a question regarding your pricing and billing,general_finance_inquiry
+send your payment account details for transfer this is important,bank_details_request
+please share your bank account details,bank_details_request
+"your account is overdue, settle the invoice urgently this is important please treat as priority",payment_overdue
+can you provide the invoice for this transaction? kindly respond thanks,invoice_request
+invoice remains unpaid despite previous reminders thanks,payment_overdue
+"we have not received payment, kindly pay as soon as possible asap",payment_overdue
+kindly explain the breakdown of charges waiting for your feedback thanks,general_finance_inquiry
+please generate and send an invoice for my payment thanks,invoice_request
+kindly confirm you received the payment urgent,payment_confirmed
+can you share your finance department contact? urgent thanks,general_finance_inquiry
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+"your payment is overdue, please settle immediately",payment_overdue
+this is a reminder that your invoice is past due please treat as priority,payment_overdue
+can you provide the invoice for this transaction? asap asap,invoice_request
+please send the invoice for last month kindly respond,invoice_request
+can you provide the invoice for this transaction?,invoice_request
+"your payment is overdue, please settle immediately waiting for your feedback",payment_overdue
+attached is proof of payment for the invoice urgent thanks,payment_confirmed
+please note your outstanding balance is overdue kindly respond,payment_overdue
+i need the invoice copy for accounting purposes,invoice_request
+where should we transfer the payment? send bank details,bank_details_request
+kindly confirm your bank details for settlement kindly respond asap,bank_details_request
+invoice remains unpaid despite previous reminders,payment_overdue
+can you provide the invoice for this transaction? asap,invoice_request
+this is a reminder that your invoice is past due thanks,payment_overdue
+this is a reminder that your invoice is past due please assist,payment_overdue
+"i did not receive the invoice, please share it urgent",invoice_request
+kindly resend the invoice document asap please treat as priority,invoice_request
+can you share your finance department contact?,general_finance_inquiry
+please provide your iban or bank information,bank_details_request
+"i did not receive the invoice, please share it urgent",invoice_request
+send your payment account details for transfer please treat as priority,bank_details_request
+i need the invoice copy for accounting purposes thanks,invoice_request
+we have a question regarding your pricing and billing please assist,general_finance_inquiry
+this is a reminder that your invoice is past due this is important,payment_overdue
+"your account is overdue, settle the invoice urgently please treat as priority",payment_overdue
+please clarify the charges on the invoice,general_finance_inquiry
+please generate and send an invoice for my payment,invoice_request
+can you share your finance department contact? this is important,general_finance_inquiry
+what is the due date for this invoice? kindly respond,general_finance_inquiry
+what is the due date for this invoice? urgent please treat as priority,general_finance_inquiry
+"i did not receive the invoice, please share it please assist",invoice_request
+"the invoice has been settled, see payment slip attached asap",payment_confirmed
+we have completed payment for invoice number 2040 please treat as priority,payment_confirmed
+invoice remains unpaid despite previous reminders,payment_overdue
+please send the invoice for last month waiting for your feedback,invoice_request
+send your payment account details for transfer,bank_details_request
+please generate and send an invoice for my payment please treat as priority,invoice_request
+kindly resend the invoice document,invoice_request
+kindly send your account number and bank name,bank_details_request
+we have completed payment for invoice number 2040 this is important,payment_confirmed
+attached is proof of payment for the invoice this is important,payment_confirmed
+"we have not received payment, kindly pay as soon as possible waiting for your feedback",payment_overdue
+send your payment account details for transfer,bank_details_request
+i need the invoice copy for accounting purposes urgent,invoice_request
+send your payment account details for transfer thanks,bank_details_request
+where should we transfer the payment? send bank details please treat as priority,bank_details_request
+"we have not received payment, kindly pay as soon as possible this is important",payment_overdue
+please note your outstanding balance is overdue waiting for your feedback,payment_overdue
+can you confirm the total outstanding balance? please assist,general_finance_inquiry
+we have completed payment for invoice number 2040 thanks,payment_confirmed
+please share your bank account details,bank_details_request
+kindly send your account number and bank name please treat as priority,bank_details_request
+"payment has been made successfully, please acknowledge please assist this is important",payment_confirmed
+we have a question regarding your pricing and billing asap,general_finance_inquiry
+please generate and send an invoice for my payment,invoice_request
+kindly confirm you received the payment asap,payment_confirmed
+what is the due date for this invoice? asap,general_finance_inquiry
+can you provide the invoice for this transaction? please assist urgent,invoice_request
+kindly confirm your bank details for settlement,bank_details_request
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+"we have not received payment, kindly pay as soon as possible thanks",payment_overdue
+kindly confirm you received the payment,payment_confirmed
+kindly send your account number and bank name,bank_details_request
+"your payment is overdue, please settle immediately this is important urgent",payment_overdue
+please send the invoice for last month asap,invoice_request
+kindly confirm you received the payment please treat as priority kindly respond,payment_confirmed
+"we have not received payment, kindly pay as soon as possible this is important",payment_overdue
+can you share your finance department contact? urgent,general_finance_inquiry
+i need the invoice copy for accounting purposes urgent,invoice_request
+kindly send your account number and bank name please assist,bank_details_request
+attached is proof of payment for the invoice this is important please assist,payment_confirmed
+where should we transfer the payment? send bank details kindly respond urgent,bank_details_request
+can you confirm the total outstanding balance? thanks,general_finance_inquiry
+kindly explain the breakdown of charges,general_finance_inquiry
+please note your outstanding balance is overdue,payment_overdue
+we have a question regarding your pricing and billing,general_finance_inquiry
+kindly explain the breakdown of charges,general_finance_inquiry
+please provide your iban or bank information,bank_details_request
+kindly confirm your bank details for settlement please assist,bank_details_request
+"your payment is overdue, please settle immediately",payment_overdue
+please send the invoice for last month waiting for your feedback,invoice_request
+can you share your finance department contact? urgent,general_finance_inquiry
+"payment has been made successfully, please acknowledge thanks",payment_confirmed
+invoice remains unpaid despite previous reminders waiting for your feedback waiting for your feedback,payment_overdue
+please generate and send an invoice for my payment this is important,invoice_request
+kindly resend the invoice document please assist,invoice_request
+"i did not receive the invoice, please share it urgent",invoice_request
+this is a reminder that your invoice is past due,payment_overdue
+can you share your finance department contact? please treat as priority waiting for your feedback,general_finance_inquiry
+we have a question regarding your pricing and billing please treat as priority,general_finance_inquiry
+please send the invoice for last month please treat as priority,invoice_request
+what is the due date for this invoice? kindly respond please treat as priority,general_finance_inquiry
+we have a question regarding your pricing and billing urgent,general_finance_inquiry
+please provide your iban or bank information please assist,bank_details_request
+please clarify the charges on the invoice kindly respond,general_finance_inquiry
+"your payment is overdue, please settle immediately please treat as priority",payment_overdue
+kindly explain the breakdown of charges,general_finance_inquiry
+can you provide the invoice for this transaction? this is important,invoice_request
+kindly confirm you received the payment this is important,payment_confirmed
+we have a question regarding your pricing and billing please assist please treat as priority,general_finance_inquiry
+this is a reminder that your invoice is past due,payment_overdue
+please share your bank account details please treat as priority,bank_details_request
+this is a reminder that your invoice is past due thanks,payment_overdue
+kindly confirm you received the payment kindly respond please treat as priority,payment_confirmed
+i need the invoice copy for accounting purposes this is important,invoice_request
+what is the due date for this invoice? please treat as priority,general_finance_inquiry
+"your account is overdue, settle the invoice urgently",payment_overdue
+kindly confirm you received the payment kindly respond please assist,payment_confirmed
+please provide your iban or bank information asap,bank_details_request
+please generate and send an invoice for my payment,invoice_request
+can you provide the invoice for this transaction? kindly respond,invoice_request
+this is a reminder that your invoice is past due waiting for your feedback,payment_overdue
+i need the invoice copy for accounting purposes,invoice_request
+can you confirm the total outstanding balance?,general_finance_inquiry
+"we have not received payment, kindly pay as soon as possible please treat as priority",payment_overdue
+attached is proof of payment for the invoice waiting for your feedback,payment_confirmed
+where should we transfer the payment? send bank details urgent,bank_details_request
+please provide your iban or bank information waiting for your feedback please treat as priority,bank_details_request
+kindly explain the breakdown of charges please treat as priority,general_finance_inquiry
+"your payment is overdue, please settle immediately this is important thanks",payment_overdue
+please clarify the charges on the invoice urgent,general_finance_inquiry
+can you confirm the total outstanding balance? please assist,general_finance_inquiry
+please send the invoice for last month please assist please assist,invoice_request
+kindly explain the breakdown of charges please treat as priority,general_finance_inquiry
+what is the due date for this invoice? please assist asap,general_finance_inquiry
+can you confirm the total outstanding balance? this is important,general_finance_inquiry
+please share your bank account details waiting for your feedback please assist,bank_details_request
+i need the invoice copy for accounting purposes kindly respond urgent,invoice_request
+"your payment is overdue, please settle immediately",payment_overdue
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+can you share your finance department contact? this is important,general_finance_inquiry
+please generate and send an invoice for my payment this is important,invoice_request
+invoice remains unpaid despite previous reminders asap,payment_overdue
+"we have paid the invoice, kindly confirm receipt asap kindly respond",payment_confirmed
+can you provide the invoice for this transaction? thanks,invoice_request
+where should we transfer the payment? send bank details urgent,bank_details_request
+can you confirm the total outstanding balance?,general_finance_inquiry
+this is a reminder that your invoice is past due,payment_overdue
+"the invoice has been settled, see payment slip attached urgent kindly respond",payment_confirmed
+can you confirm the total outstanding balance? waiting for your feedback,general_finance_inquiry
+can you share your finance department contact?,general_finance_inquiry
+where should we transfer the payment? send bank details,bank_details_request
+what is the due date for this invoice? urgent,general_finance_inquiry
+"your payment is overdue, please settle immediately please assist",payment_overdue
+where should we transfer the payment? send bank details kindly respond,bank_details_request
+"i did not receive the invoice, please share it",invoice_request
+"the invoice has been settled, see payment slip attached kindly respond",payment_confirmed
+please share your bank account details asap please assist,bank_details_request
+kindly confirm you received the payment,payment_confirmed
+please provide your iban or bank information asap,bank_details_request
+please provide your iban or bank information,bank_details_request
+please note your outstanding balance is overdue please assist,payment_overdue
+this is a reminder that your invoice is past due please assist,payment_overdue
+"we have not received payment, kindly pay as soon as possible waiting for your feedback",payment_overdue
+"your payment is overdue, please settle immediately",payment_overdue
+"payment has been made successfully, please acknowledge",payment_confirmed
+can you confirm the total outstanding balance? this is important,general_finance_inquiry
+"payment has been made successfully, please acknowledge urgent urgent",payment_confirmed
+i need the invoice copy for accounting purposes kindly respond,invoice_request
+kindly resend the invoice document urgent,invoice_request
+invoice remains unpaid despite previous reminders,payment_overdue
+can you share your finance department contact? this is important waiting for your feedback,general_finance_inquiry
+"payment has been made successfully, please acknowledge thanks",payment_confirmed
+invoice remains unpaid despite previous reminders,payment_overdue
+"your account is overdue, settle the invoice urgently",payment_overdue
+kindly confirm your bank details for settlement waiting for your feedback,bank_details_request
+please provide your iban or bank information waiting for your feedback thanks,bank_details_request
+please generate and send an invoice for my payment kindly respond,invoice_request
+can you confirm the total outstanding balance? please assist,general_finance_inquiry
+kindly confirm your bank details for settlement,bank_details_request
+where should we transfer the payment? send bank details thanks,bank_details_request
+please clarify the charges on the invoice waiting for your feedback thanks,general_finance_inquiry
+can you provide the invoice for this transaction? please treat as priority,invoice_request
+can you provide the invoice for this transaction?,invoice_request
+please note your outstanding balance is overdue thanks,payment_overdue
+"we have not received payment, kindly pay as soon as possible",payment_overdue
+please provide your iban or bank information kindly respond,bank_details_request
+kindly send your account number and bank name this is important,bank_details_request
+"your account is overdue, settle the invoice urgently kindly respond",payment_overdue
+can you share your finance department contact? waiting for your feedback,general_finance_inquiry
+kindly send your account number and bank name please assist,bank_details_request
+what is the due date for this invoice? waiting for your feedback,general_finance_inquiry
+please note your outstanding balance is overdue,payment_overdue
+please send the invoice for last month urgent,invoice_request
+please generate and send an invoice for my payment thanks,invoice_request
+kindly send your account number and bank name this is important,bank_details_request
+please provide your iban or bank information thanks,bank_details_request
+kindly confirm you received the payment please assist,payment_confirmed
+where should we transfer the payment? send bank details please assist thanks,bank_details_request
+can you confirm the total outstanding balance?,general_finance_inquiry
+kindly confirm your bank details for settlement kindly respond thanks,bank_details_request
+can you confirm the total outstanding balance? kindly respond kindly respond,general_finance_inquiry
+this is a reminder that your invoice is past due this is important waiting for your feedback,payment_overdue
+please share your bank account details asap,bank_details_request
+please clarify the charges on the invoice,general_finance_inquiry
+what is the due date for this invoice? please assist,general_finance_inquiry
+kindly confirm your bank details for settlement,bank_details_request
+invoice remains unpaid despite previous reminders asap this is important,payment_overdue
+"your payment is overdue, please settle immediately thanks",payment_overdue
+please send the invoice for last month this is important please treat as priority,invoice_request
+please provide your iban or bank information,bank_details_request
+"we have paid the invoice, kindly confirm receipt kindly respond",payment_confirmed
+please generate and send an invoice for my payment thanks,invoice_request
+kindly explain the breakdown of charges please treat as priority,general_finance_inquiry
+can you confirm the total outstanding balance? urgent,general_finance_inquiry
+please clarify the charges on the invoice,general_finance_inquiry
+what is the due date for this invoice?,general_finance_inquiry
+kindly send your account number and bank name please assist,bank_details_request
+we have completed payment for invoice number 2040 kindly respond,payment_confirmed
+kindly confirm you received the payment,payment_confirmed
+this is a reminder that your invoice is past due asap,payment_overdue
+"your account is overdue, settle the invoice urgently asap",payment_overdue
+"your payment is overdue, please settle immediately",payment_overdue
+"your payment is overdue, please settle immediately waiting for your feedback",payment_overdue
+where should we transfer the payment? send bank details please assist this is important,bank_details_request
+can you provide the invoice for this transaction?,invoice_request
+please provide your iban or bank information please assist,bank_details_request
+kindly confirm your bank details for settlement urgent,bank_details_request
+send your payment account details for transfer waiting for your feedback,bank_details_request
+please clarify the charges on the invoice,general_finance_inquiry
+what is the due date for this invoice? waiting for your feedback,general_finance_inquiry
+invoice remains unpaid despite previous reminders,payment_overdue
+where should we transfer the payment? send bank details,bank_details_request
+please provide your iban or bank information,bank_details_request
+please share your bank account details urgent,bank_details_request
+can you share your finance department contact? this is important please assist,general_finance_inquiry
+kindly explain the breakdown of charges thanks please assist,general_finance_inquiry
+"we have paid the invoice, kindly confirm receipt kindly respond waiting for your feedback",payment_confirmed
+where should we transfer the payment? send bank details this is important,bank_details_request
+kindly send your account number and bank name,bank_details_request
+where should we transfer the payment? send bank details please assist,bank_details_request
+kindly explain the breakdown of charges,general_finance_inquiry
+"the invoice has been settled, see payment slip attached asap",payment_confirmed
+can you provide the invoice for this transaction? urgent this is important,invoice_request
+kindly confirm your bank details for settlement please assist please assist,bank_details_request
+kindly confirm your bank details for settlement kindly respond,bank_details_request
+"your account is overdue, settle the invoice urgently urgent",payment_overdue
+kindly resend the invoice document please assist,invoice_request
+kindly confirm your bank details for settlement thanks,bank_details_request
+"payment has been made successfully, please acknowledge kindly respond",payment_confirmed
+kindly confirm your bank details for settlement kindly respond,bank_details_request
+i need the invoice copy for accounting purposes,invoice_request
+what is the due date for this invoice? asap,general_finance_inquiry
+"your payment is overdue, please settle immediately waiting for your feedback",payment_overdue
+please send the invoice for last month urgent,invoice_request
+attached is proof of payment for the invoice thanks waiting for your feedback,payment_confirmed
+kindly resend the invoice document this is important asap,invoice_request
+i need the invoice copy for accounting purposes please treat as priority,invoice_request
+can you share your finance department contact? kindly respond,general_finance_inquiry
+please generate and send an invoice for my payment this is important,invoice_request
+please share your bank account details kindly respond,bank_details_request
+"your payment is overdue, please settle immediately please assist",payment_overdue
+kindly resend the invoice document please assist please assist,invoice_request
+kindly resend the invoice document urgent,invoice_request
+please clarify the charges on the invoice please assist,general_finance_inquiry
+this is a reminder that your invoice is past due please assist,payment_overdue
+please clarify the charges on the invoice please assist,general_finance_inquiry
+kindly confirm you received the payment asap kindly respond,payment_confirmed
+"the invoice has been settled, see payment slip attached kindly respond",payment_confirmed
+where should we transfer the payment? send bank details this is important please treat as priority,bank_details_request
+i need the invoice copy for accounting purposes,invoice_request
+what is the due date for this invoice? please treat as priority this is important,general_finance_inquiry
+kindly confirm you received the payment this is important,payment_confirmed
+kindly resend the invoice document urgent,invoice_request
+kindly send your account number and bank name please treat as priority,bank_details_request
+"the invoice has been settled, see payment slip attached please treat as priority",payment_confirmed
+kindly explain the breakdown of charges urgent please assist,general_finance_inquiry
+"payment has been made successfully, please acknowledge asap please treat as priority",payment_confirmed
+can you share your finance department contact? waiting for your feedback,general_finance_inquiry
+send your payment account details for transfer kindly respond,bank_details_request
+"your account is overdue, settle the invoice urgently this is important",payment_overdue
+please generate and send an invoice for my payment urgent,invoice_request
+this is a reminder that your invoice is past due thanks,payment_overdue
+can you share your finance department contact?,general_finance_inquiry
+"payment has been made successfully, please acknowledge please treat as priority",payment_confirmed
+"your payment is overdue, please settle immediately",payment_overdue
+kindly resend the invoice document please treat as priority,invoice_request
+"your payment is overdue, please settle immediately thanks",payment_overdue
+can you share your finance department contact? please treat as priority,general_finance_inquiry
+please share your bank account details kindly respond urgent,bank_details_request
+please clarify the charges on the invoice please assist,general_finance_inquiry
+please note your outstanding balance is overdue,payment_overdue
+"we have paid the invoice, kindly confirm receipt kindly respond",payment_confirmed
+can you share your finance department contact? please assist,general_finance_inquiry
+send your payment account details for transfer,bank_details_request
+can you share your finance department contact? please assist kindly respond,general_finance_inquiry
+can you confirm the total outstanding balance?,general_finance_inquiry
+where should we transfer the payment? send bank details,bank_details_request
+invoice remains unpaid despite previous reminders thanks,payment_overdue
+can you provide the invoice for this transaction? kindly respond this is important,invoice_request
+"i did not receive the invoice, please share it",invoice_request
+attached is proof of payment for the invoice urgent,payment_confirmed
+can you confirm the total outstanding balance? this is important,general_finance_inquiry
+what is the due date for this invoice?,general_finance_inquiry
+where should we transfer the payment? send bank details please treat as priority,bank_details_request
+we have a question regarding your pricing and billing please treat as priority,general_finance_inquiry
+"payment has been made successfully, please acknowledge",payment_confirmed
+please clarify the charges on the invoice,general_finance_inquiry
+please generate and send an invoice for my payment this is important,invoice_request
+please share your bank account details kindly respond,bank_details_request
+"we have paid the invoice, kindly confirm receipt this is important",payment_confirmed
+"your account is overdue, settle the invoice urgently asap kindly respond",payment_overdue
+"we have not received payment, kindly pay as soon as possible",payment_overdue
+please clarify the charges on the invoice,general_finance_inquiry
+can you provide the invoice for this transaction? please assist,invoice_request
+please note your outstanding balance is overdue,payment_overdue
+"your payment is overdue, please settle immediately please assist",payment_overdue
+please generate and send an invoice for my payment kindly respond kindly respond,invoice_request
+attached is proof of payment for the invoice waiting for your feedback,payment_confirmed
+this is a reminder that your invoice is past due please assist,payment_overdue
+can you confirm the total outstanding balance? urgent please assist,general_finance_inquiry
+"your account is overdue, settle the invoice urgently waiting for your feedback",payment_overdue
+please generate and send an invoice for my payment asap,invoice_request
+kindly confirm your bank details for settlement,bank_details_request
+"payment has been made successfully, please acknowledge waiting for your feedback",payment_confirmed
+"your account is overdue, settle the invoice urgently urgent please treat as priority",payment_overdue
+please generate and send an invoice for my payment waiting for your feedback,invoice_request
+"i did not receive the invoice, please share it thanks thanks",invoice_request
+please generate and send an invoice for my payment please treat as priority,invoice_request
+"the invoice has been settled, see payment slip attached asap",payment_confirmed
+where should we transfer the payment? send bank details please assist,bank_details_request
+please provide your iban or bank information,bank_details_request
+can you share your finance department contact? thanks,general_finance_inquiry
+kindly explain the breakdown of charges,general_finance_inquiry
+please share your bank account details urgent thanks,bank_details_request
+"we have paid the invoice, kindly confirm receipt please assist",payment_confirmed
+"payment has been made successfully, please acknowledge please assist waiting for your feedback",payment_confirmed
+"payment has been made successfully, please acknowledge",payment_confirmed
+send your payment account details for transfer,bank_details_request
+please share your bank account details,bank_details_request
+"your payment is overdue, please settle immediately please treat as priority asap",payment_overdue
+i need the invoice copy for accounting purposes asap,invoice_request
+kindly confirm your bank details for settlement thanks,bank_details_request
+this is a reminder that your invoice is past due thanks,payment_overdue
+can you provide the invoice for this transaction? waiting for your feedback,invoice_request
+where should we transfer the payment? send bank details,bank_details_request
+"payment has been made successfully, please acknowledge this is important please treat as priority",payment_confirmed
+can you provide the invoice for this transaction? please treat as priority,invoice_request
+please send the invoice for last month asap,invoice_request
+please send the invoice for last month waiting for your feedback urgent,invoice_request
+we have completed payment for invoice number 2040 thanks,payment_confirmed
+this is a reminder that your invoice is past due thanks,payment_overdue
+we have completed payment for invoice number 2040 asap,payment_confirmed
+kindly explain the breakdown of charges this is important,general_finance_inquiry
+kindly send your account number and bank name this is important please assist,bank_details_request
+"your payment is overdue, please settle immediately please treat as priority asap",payment_overdue
+can you share your finance department contact? asap,general_finance_inquiry
+"the invoice has been settled, see payment slip attached kindly respond",payment_confirmed
+can you share your finance department contact? asap this is important,general_finance_inquiry
+kindly resend the invoice document asap waiting for your feedback,invoice_request
+kindly explain the breakdown of charges,general_finance_inquiry
+kindly confirm your bank details for settlement please treat as priority,bank_details_request
+please provide your iban or bank information please treat as priority,bank_details_request
+where should we transfer the payment? send bank details this is important please treat as priority,bank_details_request
+we have completed payment for invoice number 2040 please treat as priority kindly respond,payment_confirmed
+kindly confirm you received the payment asap this is important,payment_confirmed
+send your payment account details for transfer please treat as priority,bank_details_request
+please share your bank account details,bank_details_request
+please send the invoice for last month,invoice_request
+we have completed payment for invoice number 2040 urgent,payment_confirmed
+kindly confirm your bank details for settlement asap please treat as priority,bank_details_request
+invoice remains unpaid despite previous reminders please treat as priority,payment_overdue
+please clarify the charges on the invoice please assist this is important,general_finance_inquiry
+kindly explain the breakdown of charges urgent,general_finance_inquiry
+kindly confirm you received the payment,payment_confirmed
+invoice remains unpaid despite previous reminders urgent,payment_overdue
+kindly resend the invoice document thanks thanks,invoice_request
+we have a question regarding your pricing and billing,general_finance_inquiry
+kindly confirm your bank details for settlement,bank_details_request
+"payment has been made successfully, please acknowledge this is important",payment_confirmed
+can you share your finance department contact? waiting for your feedback,general_finance_inquiry
+please provide your iban or bank information waiting for your feedback,bank_details_request
+kindly confirm your bank details for settlement please assist,bank_details_request
+kindly confirm your bank details for settlement this is important,bank_details_request
+kindly resend the invoice document this is important kindly respond,invoice_request
+"i did not receive the invoice, please share it asap thanks",invoice_request
+can you confirm the total outstanding balance?,general_finance_inquiry
+invoice remains unpaid despite previous reminders asap please assist,payment_overdue
+what is the due date for this invoice?,general_finance_inquiry
+we have completed payment for invoice number 2040 kindly respond,payment_confirmed
+please provide your iban or bank information please assist,bank_details_request
+invoice remains unpaid despite previous reminders waiting for your feedback,payment_overdue
+can you share your finance department contact? please assist this is important,general_finance_inquiry
+"the invoice has been settled, see payment slip attached",payment_confirmed
+send your payment account details for transfer urgent waiting for your feedback,bank_details_request
+please share your bank account details waiting for your feedback waiting for your feedback,bank_details_request
+we have a question regarding your pricing and billing,general_finance_inquiry
+kindly explain the breakdown of charges,general_finance_inquiry
+i need the invoice copy for accounting purposes this is important,invoice_request
+where should we transfer the payment? send bank details,bank_details_request
+please clarify the charges on the invoice thanks,general_finance_inquiry
+"your account is overdue, settle the invoice urgently please assist",payment_overdue
+kindly confirm you received the payment asap,payment_confirmed
+"payment has been made successfully, please acknowledge asap",payment_confirmed
+"your payment is overdue, please settle immediately urgent",payment_overdue
+please provide your iban or bank information urgent this is important,bank_details_request
+attached is proof of payment for the invoice this is important waiting for your feedback,payment_confirmed
+"your account is overdue, settle the invoice urgently this is important",payment_overdue
+please generate and send an invoice for my payment kindly respond please assist,invoice_request
+kindly resend the invoice document this is important,invoice_request
+kindly explain the breakdown of charges kindly respond,general_finance_inquiry
+"your account is overdue, settle the invoice urgently this is important urgent",payment_overdue
+please clarify the charges on the invoice thanks,general_finance_inquiry
+kindly confirm you received the payment,payment_confirmed
+can you confirm the total outstanding balance? asap,general_finance_inquiry
+"i did not receive the invoice, please share it",invoice_request
+send your payment account details for transfer asap,bank_details_request
+we have completed payment for invoice number 2040,payment_confirmed
+invoice remains unpaid despite previous reminders,payment_overdue
+can you provide the invoice for this transaction? please assist kindly respond,invoice_request
+please send the invoice for last month asap please treat as priority,invoice_request
+please clarify the charges on the invoice kindly respond,general_finance_inquiry
+where should we transfer the payment? send bank details please treat as priority thanks,bank_details_request
+please generate and send an invoice for my payment kindly respond,invoice_request
+what is the due date for this invoice? please treat as priority,general_finance_inquiry
+invoice remains unpaid despite previous reminders thanks,payment_overdue
+please clarify the charges on the invoice thanks thanks,general_finance_inquiry
+can you confirm the total outstanding balance?,general_finance_inquiry
+kindly confirm your bank details for settlement urgent,bank_details_request
+please provide your iban or bank information asap urgent,bank_details_request
+"we have paid the invoice, kindly confirm receipt urgent",payment_confirmed
+kindly explain the breakdown of charges,general_finance_inquiry
+kindly confirm you received the payment,payment_confirmed
+please note your outstanding balance is overdue,payment_overdue
+please note your outstanding balance is overdue thanks,payment_overdue
+attached is proof of payment for the invoice kindly respond,payment_confirmed
+please send the invoice for last month waiting for your feedback waiting for your feedback,invoice_request
+invoice remains unpaid despite previous reminders thanks,payment_overdue
+"the invoice has been settled, see payment slip attached kindly respond",payment_confirmed
+where should we transfer the payment? send bank details thanks,bank_details_request
+kindly explain the breakdown of charges please assist,general_finance_inquiry
+can you provide the invoice for this transaction? please treat as priority please assist,invoice_request
+we have a question regarding your pricing and billing this is important,general_finance_inquiry
+can you confirm the total outstanding balance?,general_finance_inquiry
+"i did not receive the invoice, please share it please assist please assist",invoice_request
+this is a reminder that your invoice is past due,payment_overdue
+kindly send your account number and bank name,bank_details_request
+"we have not received payment, kindly pay as soon as possible this is important",payment_overdue
+"payment has been made successfully, please acknowledge waiting for your feedback",payment_confirmed
+kindly send your account number and bank name urgent,bank_details_request
+please share your bank account details kindly respond,bank_details_request
+kindly explain the breakdown of charges waiting for your feedback,general_finance_inquiry
+kindly send your account number and bank name please treat as priority waiting for your feedback,bank_details_request
+please provide your iban or bank information thanks,bank_details_request
+"your account is overdue, settle the invoice urgently",payment_overdue
+can you share your finance department contact? waiting for your feedback thanks,general_finance_inquiry
+where should we transfer the payment? send bank details asap,bank_details_request
+please generate and send an invoice for my payment this is important,invoice_request
+"your account is overdue, settle the invoice urgently please assist",payment_overdue
+what is the due date for this invoice? please assist,general_finance_inquiry
+please provide your iban or bank information kindly respond,bank_details_request
+kindly send your account number and bank name this is important,bank_details_request
+kindly resend the invoice document please assist,invoice_request
+"i did not receive the invoice, please share it asap",invoice_request
+where should we transfer the payment? send bank details urgent,bank_details_request
+where should we transfer the payment? send bank details,bank_details_request
+"we have not received payment, kindly pay as soon as possible please assist",payment_overdue
+please clarify the charges on the invoice please assist please treat as priority,general_finance_inquiry
+kindly explain the breakdown of charges,general_finance_inquiry
+"your account is overdue, settle the invoice urgently",payment_overdue
+can you confirm the total outstanding balance? waiting for your feedback,general_finance_inquiry
+"the invoice has been settled, see payment slip attached please assist waiting for your feedback",payment_confirmed
+kindly resend the invoice document,invoice_request
+can you share your finance department contact? please treat as priority,general_finance_inquiry
+can you share your finance department contact?,general_finance_inquiry
+invoice remains unpaid despite previous reminders urgent,payment_overdue
+send your payment account details for transfer please treat as priority please assist,bank_details_request
+can you share your finance department contact? kindly respond,general_finance_inquiry
+kindly resend the invoice document,invoice_request
+kindly resend the invoice document asap,invoice_request
+please provide your iban or bank information please treat as priority,bank_details_request
+please generate and send an invoice for my payment waiting for your feedback,invoice_request
+please clarify the charges on the invoice waiting for your feedback,general_finance_inquiry
+"the invoice has been settled, see payment slip attached kindly respond",payment_confirmed
+we have completed payment for invoice number 2040,payment_confirmed
+kindly explain the breakdown of charges thanks,general_finance_inquiry
+"payment has been made successfully, please acknowledge kindly respond",payment_confirmed
+"we have not received payment, kindly pay as soon as possible waiting for your feedback urgent",payment_overdue
+kindly resend the invoice document waiting for your feedback,invoice_request
+i need the invoice copy for accounting purposes,invoice_request
+"your payment is overdue, please settle immediately please treat as priority waiting for your feedback",payment_overdue
+send your payment account details for transfer kindly respond,bank_details_request
+please note your outstanding balance is overdue asap waiting for your feedback,payment_overdue
+please generate and send an invoice for my payment,invoice_request
+please clarify the charges on the invoice,general_finance_inquiry
+please provide your iban or bank information,bank_details_request
+kindly resend the invoice document please assist,invoice_request
+please generate and send an invoice for my payment this is important,invoice_request
+"i did not receive the invoice, please share it",invoice_request
+i need the invoice copy for accounting purposes urgent please treat as priority,invoice_request
+please provide your iban or bank information,bank_details_request
+"we have paid the invoice, kindly confirm receipt kindly respond",payment_confirmed
+i need the invoice copy for accounting purposes this is important,invoice_request
+kindly send your account number and bank name waiting for your feedback,bank_details_request
+kindly resend the invoice document,invoice_request
+"we have paid the invoice, kindly confirm receipt waiting for your feedback",payment_confirmed
+"we have paid the invoice, kindly confirm receipt this is important",payment_confirmed
+kindly confirm your bank details for settlement please assist,bank_details_request
+can you confirm the total outstanding balance? please assist,general_finance_inquiry
+please clarify the charges on the invoice please treat as priority,general_finance_inquiry
+please share your bank account details thanks waiting for your feedback,bank_details_request
+attached is proof of payment for the invoice,payment_confirmed
+this is a reminder that your invoice is past due urgent,payment_overdue
+please share your bank account details thanks,bank_details_request
+where should we transfer the payment? send bank details please assist,bank_details_request
+this is a reminder that your invoice is past due kindly respond,payment_overdue
+"payment has been made successfully, please acknowledge thanks",payment_confirmed
+can you confirm the total outstanding balance? waiting for your feedback,general_finance_inquiry
+please share your bank account details thanks waiting for your feedback,bank_details_request
+attached is proof of payment for the invoice urgent,payment_confirmed
+please provide your iban or bank information,bank_details_request
+can you share your finance department contact? thanks,general_finance_inquiry
+"we have not received payment, kindly pay as soon as possible asap",payment_overdue
+"we have not received payment, kindly pay as soon as possible please treat as priority",payment_overdue
+where should we transfer the payment? send bank details waiting for your feedback,bank_details_request
+can you confirm the total outstanding balance?,general_finance_inquiry
+what is the due date for this invoice? this is important,general_finance_inquiry
+please clarify the charges on the invoice please treat as priority please assist,general_finance_inquiry
+"your payment is overdue, please settle immediately this is important",payment_overdue
+"payment has been made successfully, please acknowledge please treat as priority",payment_confirmed
+invoice remains unpaid despite previous reminders waiting for your feedback,payment_overdue
+kindly confirm your bank details for settlement please assist,bank_details_request
+please clarify the charges on the invoice please treat as priority,general_finance_inquiry
+can you provide the invoice for this transaction? asap,invoice_request
+what is the due date for this invoice? please treat as priority,general_finance_inquiry
+we have a question regarding your pricing and billing please treat as priority,general_finance_inquiry
+kindly explain the breakdown of charges,general_finance_inquiry
+please generate and send an invoice for my payment asap urgent,invoice_request
+kindly confirm you received the payment please treat as priority,payment_confirmed
+where should we transfer the payment? send bank details this is important,bank_details_request
+can you share your finance department contact? thanks urgent,general_finance_inquiry
+please share your bank account details this is important thanks,bank_details_request
+where should we transfer the payment? send bank details thanks,bank_details_request
+please note your outstanding balance is overdue waiting for your feedback,payment_overdue
+please send the invoice for last month asap,invoice_request
+kindly confirm your bank details for settlement kindly respond,bank_details_request
+can you share your finance department contact? kindly respond,general_finance_inquiry
+please generate and send an invoice for my payment this is important thanks,invoice_request
+we have a question regarding your pricing and billing kindly respond,general_finance_inquiry
+what is the due date for this invoice? waiting for your feedback,general_finance_inquiry
+where should we transfer the payment? send bank details please assist,bank_details_request
+kindly send your account number and bank name please assist,bank_details_request
+please generate and send an invoice for my payment asap,invoice_request
+attached is proof of payment for the invoice please assist,payment_confirmed
+kindly confirm you received the payment thanks waiting for your feedback,payment_confirmed
+can you share your finance department contact? thanks,general_finance_inquiry
+please provide your iban or bank information urgent,bank_details_request
+kindly confirm you received the payment urgent,payment_confirmed
+"payment has been made successfully, please acknowledge kindly respond",payment_confirmed
+please share your bank account details waiting for your feedback,bank_details_request
+we have completed payment for invoice number 2040 thanks waiting for your feedback,payment_confirmed
+"payment has been made successfully, please acknowledge waiting for your feedback",payment_confirmed
+kindly resend the invoice document this is important,invoice_request
+"the invoice has been settled, see payment slip attached",payment_confirmed
+send your payment account details for transfer please treat as priority please assist,bank_details_request
+where should we transfer the payment? send bank details urgent,bank_details_request
+please share your bank account details waiting for your feedback,bank_details_request
+kindly resend the invoice document urgent,invoice_request
+invoice remains unpaid despite previous reminders this is important,payment_overdue
+kindly confirm your bank details for settlement this is important,bank_details_request
+we have completed payment for invoice number 2040 urgent,payment_confirmed
+can you confirm the total outstanding balance?,general_finance_inquiry
+i need the invoice copy for accounting purposes please treat as priority,invoice_request
+i need the invoice copy for accounting purposes,invoice_request
+can you share your finance department contact?,general_finance_inquiry
+we have completed payment for invoice number 2040,payment_confirmed
+"we have paid the invoice, kindly confirm receipt",payment_confirmed
+kindly confirm your bank details for settlement please assist,bank_details_request
+please provide your iban or bank information thanks waiting for your feedback,bank_details_request
+what is the due date for this invoice? waiting for your feedback,general_finance_inquiry
+"payment has been made successfully, please acknowledge",payment_confirmed
+please note your outstanding balance is overdue asap,payment_overdue
+"we have not received payment, kindly pay as soon as possible",payment_overdue
+please send the invoice for last month kindly respond,invoice_request
+please provide your iban or bank information please treat as priority,bank_details_request
+can you confirm the total outstanding balance? urgent,general_finance_inquiry
+"the invoice has been settled, see payment slip attached",payment_confirmed
+send your payment account details for transfer urgent,bank_details_request
+"i did not receive the invoice, please share it this is important",invoice_request
+"we have not received payment, kindly pay as soon as possible please assist",payment_overdue
+"the invoice has been settled, see payment slip attached please assist",payment_confirmed
+kindly confirm you received the payment thanks,payment_confirmed
+what is the due date for this invoice?,general_finance_inquiry
+kindly confirm your bank details for settlement waiting for your feedback,bank_details_request
+please provide your iban or bank information,bank_details_request
+please note your outstanding balance is overdue please treat as priority kindly respond,payment_overdue
+i need the invoice copy for accounting purposes this is important waiting for your feedback,invoice_request
+please share your bank account details please assist,bank_details_request
+attached is proof of payment for the invoice please treat as priority,payment_confirmed
+can you provide the invoice for this transaction?,invoice_request
+"i did not receive the invoice, please share it this is important",invoice_request
+can you confirm the total outstanding balance? please assist,general_finance_inquiry
+please note your outstanding balance is overdue waiting for your feedback,payment_overdue
+kindly explain the breakdown of charges kindly respond urgent,general_finance_inquiry
+what is the due date for this invoice?,general_finance_inquiry
+can you confirm the total outstanding balance? kindly respond urgent,general_finance_inquiry
+kindly resend the invoice document thanks,invoice_request
+"we have not received payment, kindly pay as soon as possible urgent",payment_overdue
+"your payment is overdue, please settle immediately",payment_overdue
+invoice remains unpaid despite previous reminders thanks,payment_overdue
+can you provide the invoice for this transaction? please treat as priority,invoice_request
+please generate and send an invoice for my payment thanks,invoice_request
+we have a question regarding your pricing and billing,general_finance_inquiry
+where should we transfer the payment? send bank details thanks,bank_details_request
+what is the due date for this invoice? urgent thanks,general_finance_inquiry
+"we have not received payment, kindly pay as soon as possible",payment_overdue
